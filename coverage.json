@@ -2,7 +2,7 @@
   "pack": "Cuboid Outpost 1.1.2",
   "minecraft": "1.16.5",
   "forge": "36.2.26",
-  "release": "1.0.0",
+  "release": "1.1.0",
   "quest_keys": 4421,
   "mod_language_keys": 5646,
   "included_language_namespaces": {
@@ -111,5 +111,7 @@
     "valkyrielib"
   ],
   "tconstruct_manual_json_files": 386,
-  "external_guide_json_files": 6
+  "external_guide_json_files": 6,
+  "easy_import_mod_references": 138,
+  "easy_import_original_override_files": 559
 }

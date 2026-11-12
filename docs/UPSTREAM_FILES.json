@@ -1,0 +1,2258 @@
+{
+  "source_commit": "3d2a0e9967818cc00faee8faf7d61b6833782fad",
+  "source_url": "https://github.com/CuboidDroid/cuboidoutpost/tree/3d2a0e9967818cc00faee8faf7d61b6833782fad/src/overrides",
+  "original_files": [
+    {
+      "path": "config/abnormals_core-client.toml",
+      "sha256": "5719a7afb03e4677fc9095c169636aa3f51af6d54c5ea3c8c153f00546566d15"
+    },
+    {
+      "path": "config/abnormals_core-common.toml",
+      "sha256": "ff182a1390fa32051e60696f323606b177829f80e9f4a1b133ce9fdb5ef26b48"
+    },
+    {
+      "path": "config/ae2ao.toml",
+      "sha256": "84759e9230b77b007c27daf85742b088bce578613d3e916dc84a43757f3a4c52"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "sha256": "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+    },
+    {
+      "path": "config/appliedenergistics2-client.toml",
+      "sha256": "8a6a96f016b31101687afdf79f75597b82ea41057b4b296ec28fb7094a21998c"
+    },
+    {
+      "path": "config/appliedenergistics2-common.toml",
+      "sha256": "16c4d78e8ea801b7d1206eb495f99b319f530e6566c6cdd165dd722237c3c78d"
+    },
+    {
+      "path": "config/bettercaves/README.txt",
+      "sha256": "4f16327598ee6f761118b4396cff6a964799aaeea1d8af66b54c45946e03c53a"
+    },
+    {
+      "path": "config/bettercaves-1_16.toml",
+      "sha256": "30019b0771c0360e401b9fed2b04206d07b593405336faace38b5c62f460df2e"
+    },
+    {
+      "path": "config/betterdungeons-forge-1_16.toml",
+      "sha256": "0a017b69d748c1bb608e98807af3dac586615e173d8efc20495833ebfd563e3e"
+    },
+    {
+      "path": "config/bettermineshafts/1_16/biomeTags.txt",
+      "sha256": "d1e6c75dd7378bd478d4e119a0d1fa408084ce86f19a5f560a4f70f7b3577b7f"
+    },
+    {
+      "path": "config/bettermineshafts/1_16/README.txt",
+      "sha256": "b2222a54a5fcaeba7597d0d88f49d184e33cb4532b60e393b9a6d832a02e62c9"
+    },
+    {
+      "path": "config/bettermineshafts/1_16/variants.json",
+      "sha256": "7569d93ed92eb2c81c53121275626d59a3519182398d2ff9b6da6cb739538b2d"
+    },
+    {
+      "path": "config/bettermineshafts/README.txt",
+      "sha256": "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
+    },
+    {
+      "path": "config/bettermineshafts-forge-1_16.toml",
+      "sha256": "6817437f4ddf1dffdfef144050f14909508352e39cabec3a8dd575e1416816eb"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_16/armorstands.json",
+      "sha256": "e35ab038951e20216755ca19772a5c3c5733279c50cf39abf282c27aa34ada72"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_16/itemframes.json",
+      "sha256": "d21c6035dee6288b9daf9d9b29a4a23903a40b27bcbc9d8c73cd9217fceed3a9"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_16/ores.json",
+      "sha256": "ecb8162f7ac303a1454884cb76d66d5038e021a80455391e9213bdd5da002b0f"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_16/rareblocks.json",
+      "sha256": "d6a7ad89b872184a4f72d1dd58557f4855758f9f08be4f257960c80ab8dae376"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_16/README.txt",
+      "sha256": "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "sha256": "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+    },
+    {
+      "path": "config/betterstrongholds-forge-1_16.toml",
+      "sha256": "ffcb52a96295d9327e8a5a409413a21d9c56934d36068e05bddcbac2b463ecbe"
+    },
+    {
+      "path": "config/botanypots-client.toml",
+      "sha256": "62a8ef0098f4dd27c705b0bb58ef0c0a09c48416dcfc53da96e6a73f24294a9f"
+    },
+    {
+      "path": "config/bountifulbaubles-client.toml",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "config/bountifulbaubles-common.toml",
+      "sha256": "161f75a44ee480e4a7a0f4fdd52215e499335dbe6c0eab00aeccff6e58c25f87"
+    },
+    {
+      "path": "config/ccl.cfg",
+      "sha256": "e775804f263a5ff8622f7d5880f977eeda2b4f7a45c0e73eb061b154d23cc682"
+    },
+    {
+      "path": "config/cfm-client.toml",
+      "sha256": "68883ba076ad71004509e33c8578fc3f6be093a5c66d7523928977162219cf20"
+    },
+    {
+      "path": "config/cfm-common.toml",
+      "sha256": "27aa738212d7314f08bed2fcfb782a146cf5889a3f0891a74dfb1c22e94d2b2e"
+    },
+    {
+      "path": "config/cofh_core-client.toml",
+      "sha256": "e5770761fa49e61b38f5c0fc2e713f97b044a834cb773733239d775748d6756b"
+    },
+    {
+      "path": "config/constructionwand-client.toml",
+      "sha256": "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
+    },
+    {
+      "path": "config/cookingforblockheads-client.toml",
+      "sha256": "0391d591ebf3f63f14380aa20749ae7fc540f297d7f7b742aefe8e429274026e"
+    },
+    {
+      "path": "config/cookingforblockheads-common.toml",
+      "sha256": "5244234e1ed8a40febc360b1170f0429de992dbe0d99a330c2debc9cc44c2ee1"
+    },
+    {
+      "path": "config/create-client.toml",
+      "sha256": "a2a3894b2433f7b444a46c6b807b77029bb49e1f22468bf32e9bc52ac70addb4"
+    },
+    {
+      "path": "config/create-common.toml",
+      "sha256": "749e4219f3a3e3b1885bc0c31a26447861743ba274998d720ae9e484cc7297b9"
+    },
+    {
+      "path": "config/cuboiddroid/xpiggybank/xpiggybank.toml",
+      "sha256": "dc32385a0cbff2dd31f5355f304c32bd3193ecf4b72781e736592eb9fdc8da95"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/acacia_log.json",
+      "sha256": "f350150ad836c11707c63386c20307f62f3c43b32f7027d443df65425093eb1c"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/aluminium.json",
+      "sha256": "cfeff22455c214d6a684f8cdb5dcdc986dd818f49eb11f9ab07537eac242f4f9"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/andesite.json",
+      "sha256": "f350e826a987bd70ab9b5aed4add5f3929e5bc5f1e0f92da6ed9a56a80ea30ac"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/basalt.json",
+      "sha256": "6535c54676d33b71379cd31f451a30d72d93db0d083bc9b56e7009d828df9bb3"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/birch_log.json",
+      "sha256": "a4414f37e0c5ac71c33422007798eb6071f6084e729afc242142a4b4a04f5c89"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/blackstone.json",
+      "sha256": "e0399c6e9d3df8dde0351cdc632ab6d5ede8d81eb72e4d7061e9acba23a1ae5c"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/carbon_nanotube.json",
+      "sha256": "781c3568100aabaa53bce629725659098564cfe602417e12198b158d95d9ea3f"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/cellulose.json",
+      "sha256": "29e36d786027b1574426b13ac0309957688493f6cf189f4a635e1f2946ebc4bc"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/clay.json",
+      "sha256": "30047b29630c92abc3e6c54118520088065e67acf3258c724843b3378399be0f"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/coal.json",
+      "sha256": "0886fe5156489936e244728c23005d51e1f777b182166f4f5cff84f4bb8f9b12"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/cobalt.json",
+      "sha256": "dcecb004f190ef8620bf8b76220114706b8bbf33db95613ca7226bb47d6b7f98"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/cobblestone.json",
+      "sha256": "641c82c60d788e60fd17e2517737a4b93fca63476777b66a6c417ba6a73706a0"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/copper.json",
+      "sha256": "b14c1f75c1e714c4556841ef2ca72fa93f7153a2222bc367ef274de0016df554"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/dark_oak_log.json",
+      "sha256": "612e42f276b52ec7db9bed5d9c80f5738bec01fee857600e34c23cba2807d2b4"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/diorite.json",
+      "sha256": "1f9d9666a32869a04029c6d9b4c7d190452ef0cac42f7d7469c940a2356dc1f5"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/dirt.json",
+      "sha256": "4b94b7939e7b6d296d13b2be6d0df02fc8b54e6d3de29bae19405a6117bc79e1"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/dust.json",
+      "sha256": "293a486a2e69783e8d3f6e375f04cfb7dafa0fc0bbd00229bb3b9d61633c0377"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/endstone.json",
+      "sha256": "4b8afa46443edd9ed20d9951769e8638cb8b37199cb226a7a8b7b6545ae1b508"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/glowstone.json",
+      "sha256": "bca41e49185446dca02a6298d477171204470c8b0cb5123529759f7f6f977134"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/gold.json",
+      "sha256": "e2083ee8c440cbce10d3ac34942408034a8793aa1707393813b36d86354ba917"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/granite.json",
+      "sha256": "0bb0c527c7f47bd6b2d405cbbe9b11d8933eb4dde922f29795317c6036c84fb7"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/gravel.json",
+      "sha256": "a4f4f6099cf6941bbd4563c71ce216345e0609600f07a044bee37502a1effbcd"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/iron.json",
+      "sha256": "8b7d3e45b9c28e39bee4fd1dc2063c0a78863eeda521c1c47328d0020b941eed"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/jungle_log.json",
+      "sha256": "590e043973a2341a6ab4d43c2267137db835c0462f53b7094a499170e3569055"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/kudbebedda.json",
+      "sha256": "857188f8b70fc0b705efe63ade06eb88e95bfb3c435490bd0858425eb81e5741"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/lapis.json",
+      "sha256": "80a0b408a44f4d2066b724b8e96913cf71533d3b95188ecb4e7a04ea3cf20e4e"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/lead.json",
+      "sha256": "bfff7c7ca519e72276cece01ac2d8b41e2d47728ebf2a3e33276a4ef9bca755f"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/netherrack.json",
+      "sha256": "b0d5a130a885a854346a99e32ec79526af29fd3835d5e01503f21c130d4fe406"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/nickel.json",
+      "sha256": "fb54e3c9a5acb01c1053b33f6f84f396f1357efe721f67bacd7aa9f45c3ce13c"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/notarfbadium.json",
+      "sha256": "7f8b1e2ab7d711130d32b3fb2ab16c7dd7a3587c03ecd18a0abd1072ec2668cf"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/notsogudium.json",
+      "sha256": "7cfcdcad9ce65961129999307cc4b4c107777c050749c66cb07ddb2cb7642228"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/oak_log.json",
+      "sha256": "e0a3312deaf8897e2d3f72592c2697000cbf0397811e26c8d821bb2c4e2f9e5b"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/osmium.json",
+      "sha256": "53463972459fcad82c04e52ed169d5b0d9f1ae8e3ca58d7b60ef6c9491484ad7"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/redstone.json",
+      "sha256": "8b5396482732e7173c596f6002a012d8c267632b6f7a0d091a1c4ba297185ef8"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/sand.json",
+      "sha256": "aff2ddac5f03b7d017685b20a59d0a40bc4378e0d8c3c49c238b378894e5300f"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/silica_dust.json",
+      "sha256": "4b1e06bbe1f626d7bcfa47f02d593026ff47ad811e5981075e3f2a2d28207981"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/silver.json",
+      "sha256": "0689550f59a0614b5f6176d63755be9ea7a13715d3b5c482916fcd3001b18330"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/spruce_log.json",
+      "sha256": "20e19d87d227f441d6f2bbc04cb4f1248d2a24ac3f940d67b9cd5d74e5d091a8"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/thatldu.json",
+      "sha256": "570febc3792ca498c82b4bf89b38792a8cdfed1866198f6439573fdea99d52af"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/tin.json",
+      "sha256": "e8d75a2a393c26c8dbc554c5391e81506013ef31926f66ee4775b6edf6c3e64b"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/uranium.json",
+      "sha256": "a4935b089b4617f85b55ef64341c9abd6cec8fbb4c89ceacc4a5733d762d846d"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/wikidium.json",
+      "sha256": "fa795226dbb71d3584715ba941aabf918af8d217d7d5ab61b99859c7d7a9525f"
+    },
+    {
+      "path": "config/cuboidmod/quantum_singularities/zinc.json",
+      "sha256": "b7a2b5bbca210a1de6d4053ab730353c72b76f6c7440f2e8063081d6cfad6475"
+    },
+    {
+      "path": "config/cuboidmod/recycler/item_blacklist.json",
+      "sha256": "d737bc6ff04cc4bad71739e8f26a8914a9fdce1480afafcefe3fdad449898eac"
+    },
+    {
+      "path": "config/cuboidmod/recycler/item_tag_blacklist.json",
+      "sha256": "1a50fc52be8f3f1f2e4c2825b5a83bdf978162495a589baedf7c211c71713803"
+    },
+    {
+      "path": "config/cuboidmod/recycler/recipe_blacklist.json",
+      "sha256": "36492ec8ceff2ae60c4c62c7b493d081ca84ef5939ecb0b5db5a392beddd22bf"
+    },
+    {
+      "path": "config/cuboidmod/recycler/result_item_blacklist.json",
+      "sha256": "09663219db099520b234dfd576227f89ca4634a32a1a821c70e06e3415d9201f"
+    },
+    {
+      "path": "config/cuboidmod/recycler/result_item_tag_blacklist.json",
+      "sha256": "64bf2482100ab4e11198a8a1907be62d4c3ab10c427f0180e7c1cc3abaa1ea2b"
+    },
+    {
+      "path": "config/cuboidmod-client.toml",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "config/cuboidmod.toml",
+      "sha256": "240ab458e7d694850c6f00a0db9041dcb0eef0c8bbe18e57b52e82f9ab409768"
+    },
+    {
+      "path": "config/cucumber-client.toml",
+      "sha256": "8728108be29b34595d998261b40bba3ffb58f0def0dbe3b5c0e48c4fb708a3bc"
+    },
+    {
+      "path": "config/cucumber-common.toml",
+      "sha256": "b51a516869a543217864ebc83f298791c16b73af63ccec0ab144876af5025351"
+    },
+    {
+      "path": "config/cucumber-tags.json",
+      "sha256": "1d8735be8eed5d16b97d5f453e5d85e327ae8175a1799357206dbf3ff8142d1e"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "sha256": "b38ea260cde0a1b5d176abc4c5c7ac0f11ff30c972d0ff9cb66c129c4fed67fd"
+    },
+    {
+      "path": "config/defaultworldtype/client-config.toml",
+      "sha256": "d34eb47f0412a763eec31498e6ecd6a07b6a8843a0da3476dce96e0deb8a5277"
+    },
+    {
+      "path": "config/defaultworldtype/world-types.txt",
+      "sha256": "357f66629a8223978d9ab97b0be75a3fe0748a227941c52bbb3b65cd7839c387"
+    },
+    {
+      "path": "config/dungeon_crawl.toml",
+      "sha256": "789b584ef56a306cc768067e254dbb69abed462bc1fc51290a1082393d597549"
+    },
+    {
+      "path": "config/endergetic-common.toml",
+      "sha256": "bf0b9695be02081947e0702335844755ee28f8538722d181184e9557c9762b89"
+    },
+    {
+      "path": "config/EnderStorage.cfg",
+      "sha256": "ee18dee1a8206cc3853e156102d70038554a4d0e30937e1e8145ef49086d0670"
+    },
+    {
+      "path": "config/excompressum-client.toml",
+      "sha256": "7ea7f4dd5712cd00dd7977f3846f24fee6d122918a1bba892818fa0c7f87ead9"
+    },
+    {
+      "path": "config/excompressum-common.toml",
+      "sha256": "1e72937f690bd99377b84d81400747ea947701fb165a4ae3e9a39a274e65a427"
+    },
+    {
+      "path": "config/exnihilosequentia-common.toml",
+      "sha256": "f163587a5ed2d64e0a1cc605a212b70f83c44bdde736a6e2ef5a3229f33891cd"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/aluminum.json",
+      "sha256": "36ba0f7c26946252c3bf769843b210e80622b617cd0f66a2d51c8cfb16e5b31c"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/bronze.json",
+      "sha256": "9377e1d47cbdfb4d61edc45b0c6f60fd321e8de8c43af1b7568420b65618d25f"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/coal.json",
+      "sha256": "6a29f00b839b04e01c2c88cf569aed6af78a844966a77b8bb23bd16da17838cb"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/copper.json",
+      "sha256": "ee60f05682c0aaa888f1a1bef97a5e98ec3bf1425313533d897e818fe72bc46c"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/diamond.json",
+      "sha256": "dace8fd8f31b6223249389cbe76b263547e257f8356db3407bda1428021e2ad8"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/electrum.json",
+      "sha256": "597218231cd0ae51866c5a994b038949719c0ad1d2f4281d2ed24b07bcec60af"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/emerald.json",
+      "sha256": "a2580f6ce105f9d86190002c1535919c051ad0dc3dad422baa469c3d0d174719"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/glowstone.json",
+      "sha256": "d604928c28dff13af01884480875dc2cacce1307161ae2aa59ef91072f237d4a"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/invar.json",
+      "sha256": "7983f337369946bc8a8dc228b0c66e6d4be4a812a5a9ae08525222404a999c9b"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/iron.json",
+      "sha256": "8210955f08105cf373c37d2be99481cec96b7549084a8d2afcfa292c13f7e943"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/lapis_lazuli.json",
+      "sha256": "f931232256e4aa2cc2d1acb4347bdb17307c90b59a2b2ae6c7e7913aec3e0344"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/lead.json",
+      "sha256": "bab862e80846d26b72aaa81308d21a71768396d4a29120d19288979ca648ac27"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/nickel.json",
+      "sha256": "fe47235f3d4ac3b6ff2c2109187d78d344c2ab6810e07e8ce0206725f8a3452d"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/platinum.json",
+      "sha256": "e0b7c52e8d16c12a829aeb79217f33bd1cc4f4e5412621ee29a6d1afba44f7c9"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/redstone.json",
+      "sha256": "1f6e59698085d1293a16c0077bc0ac9729c226809244d88bea651aaf7aa829c9"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/silver.json",
+      "sha256": "a104ddafc8d314e41158f13b5b9a92dd57e59a139503b567f9f2315700da1a5b"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/steel.json",
+      "sha256": "20ee896b42564700e46c3b361db71b1aa746a3be874c5898ac0af47e9e95c6ae"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/tin.json",
+      "sha256": "67e941383aae60e26457bcf545f4702638a525fbc94bd443b46992947362db4b"
+    },
+    {
+      "path": "config/extendedcrafting/singularities/uranium.json",
+      "sha256": "9cf3f3c3076886c8f962f6f86f6c847b333868a82aae184b224f895a999f1c70"
+    },
+    {
+      "path": "config/extendedcrafting-client.toml",
+      "sha256": "3ef75b93fbd31067ff23bb2fae109644500119a0300a8c3fc8b72ac081e42381"
+    },
+    {
+      "path": "config/extendedcrafting-common.toml",
+      "sha256": "c71e3957ab70d264048892b2b92c53221c22b76c2ca48cd4e7233b0efa7b3801"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "sha256": "26cce95143d6404260da15adcd6f0652b13bdaf4096e26fe9aae825ec50d1f7d"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha256": "1bf4724b18a9dc46756d6fda1dc9245d8773c5b34b5816716f376bccba109700"
+    },
+    {
+      "path": "config/fancymenu/customization/ESC menu.txt",
+      "sha256": "85519c4aeca9568eda11ea4418acc08a13bfe0f62c26d3ff612dd2e5bcb66cd7"
+    },
+    {
+      "path": "config/fancymenu/customization/Main Menu.txt",
+      "sha256": "577ac16f371be51fdc421d45c82ee3502bd431bcb3a4225b70e7e3c54a037f0b"
+    },
+    {
+      "path": "config/fancymenu/customization/New World.txt",
+      "sha256": "690cf8adba11bab80fb88d764803196d6dd5e9871f4794544186a91069518b03"
+    },
+    {
+      "path": "config/fastbench.cfg",
+      "sha256": "dd7d3acccb1470a7a66a4da7873d0b6026a3372deebc6826f2ed8ccedf10de69"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "sha256": "c552f640891856a9cbaacf326301b274284932d535ac3a8bca76ce8e6959331e"
+    },
+    {
+      "path": "config/fml.toml",
+      "sha256": "8af1a845056b3cd4d3b2deb9a820d8a097295f3698f52d8ed27204a6e4c13db6"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "sha256": "aba44e8db528160edac5925e92b8fed6148853cf60e98ce7c255b814e685e7d2"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "sha256": "77277893cc61cf9117d33b36b3f458959e0dfa68b6f21a3b7a1cc71aa83eee70"
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "sha256": "987c1f0ea4aa68da53d75c68d6a6a23dadda1fc7545d8e63c103a31f805e1aeb"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/a_new_beginning.snbt",
+      "sha256": "388416ae8bb11e03705c93e7e41547f61b53d466ac1cc437b4a0a773da74ebc1"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/all_powah_full.snbt",
+      "sha256": "297157491896ef7a72788c3e59f2600ebac6f6d771e12a4654d9c191bb7b7d9e"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/allo_allo_alloy.snbt",
+      "sha256": "e00c0afcb1518fcd7933fd78131404343910b998ffc665e38bf14f30390f76a8"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/backpacking.snbt",
+      "sha256": "69e3f9176071a3eaba87cace92199208b40310b1f20f220af5fd77795f225a0f"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/deliciously_creative.snbt",
+      "sha256": "4a10ffcf402f376d833f9c81240de130cd7df49ebf37c30d25cb1d8edc5317cf"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/digging_up_the_dirt.snbt",
+      "sha256": "b394e842505cddf14c50ea6a3250c5eeacded15496f2a7ec9f63780787a651e4"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/digital_applied_energistics.snbt",
+      "sha256": "6524390994ce55a358b6eb2ccfe4767b426a1ce8963851e5644d11efdd60155d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/digital_refined_storage.snbt",
+      "sha256": "18ce16f9f8c5342620fec2b46f3ae3b91e36d85c13ec89ac9ffbf28b6c50ffd8"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/dirtying_the_dishes.snbt",
+      "sha256": "4a5b0c5330ef54aa06456b70a0d973e794093c35d7837f02264d7c8360fa60d2"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/dishing_up_the_meat.snbt",
+      "sha256": "225f673c56b062955b4409e397d91252ff4f1e340833361547c5633a1ae92c60"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/dont_trust_the_trees.snbt",
+      "sha256": "ca0171e034d088cbe4b03d0c09b54408b8d20ca8dd5351e5cf14e85c25afc46a"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/emergency_items.snbt",
+      "sha256": "9e0a1c86534d6f4d8edd01b12a535d43940e229397a2770a9378027aa68c6a8e"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/energy_storage.snbt",
+      "sha256": "599825ff040d21db291e1ee1731511bfbc2af26b22fe22344953abb9f69b770d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/energy_transfer.snbt",
+      "sha256": "de16eb928b70de8323a423c3c1922785624ed32cd8279709907bc8d53904bb28"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/exploring_the_nether_regions.snbt",
+      "sha256": "b779322372f4eea94248088eeed00042fa6e42aa55d0c5bbc639d5190d1dd5de"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/extending_reality.snbt",
+      "sha256": "b5d74ecf633efddb26ba8cec88b61468faf860ae5aa50cd4973117b2b68a6463"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/farewell.snbt",
+      "sha256": "c6ed9f24f7ea7e00e3a04293dc1d65ce158efeb3be402a52c037cfc07a93c9ff"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/fluid_transport.snbt",
+      "sha256": "26b8c3d0191b1724cf2dcef4defe99090c319e9388c306833fb1f482682cbd89"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/furnii.snbt",
+      "sha256": "0e9d2e11d5225ceea40a1bb2ba7061bd081bf667134ab745dba4675a17ec5a5b"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/gas_storage.snbt",
+      "sha256": "50b652ab942a77ad6930eb1ac1e587857250f0e9cf71fd42cc29740743805dfd"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/gas_transport.snbt",
+      "sha256": "bf52d4c516cab18cf69d982fcfd99e0f7b53f7d65f85d97ecf6f849c76fc8de8"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_creative.snbt",
+      "sha256": "fa2147c94fcb44f544a78dafa0c015200da81f9841887ece41767fd9d86ec9b9"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_digital.snbt",
+      "sha256": "fae9255c8d566a23ea39350e0c9bc98a83c5ea1229dcd970b2a8dbb8ea2a6e96"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_going.snbt",
+      "sha256": "7e22389f88b63464b1bcc3cd6cb589e089c66942f97e7bcdc11d99c8956b8767"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_immersed.snbt",
+      "sha256": "27a0edbe394f6da68617c7f6b258285c0edcd61e4fd16983106de7461560184a"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_mekanised.snbt",
+      "sha256": "de925a7257a2453536c3fd6b0235edb14bbb4f7e6d5a144256f4971893152454"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_meshed_up.snbt",
+      "sha256": "6c8593a953e200a2e89f512301e1605a84657c75d278bbf18edb338e54c5d074"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_started.snbt",
+      "sha256": "31ada360d3e1ae26978d072f18fd1a5c8225df67434e1361d426a30f4d1ec619"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/getting_tinks_done.snbt",
+      "sha256": "09291ad2c9e1226404c75d83567ca99ad0e8f52b6a44ad9e59c90f3e54975aea"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/industrial_forbidding.snbt",
+      "sha256": "03333626dc3644474a97c1af9aba5fab389d1aad068be7744978bc7c953536f6"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/industrial_foreboding.snbt",
+      "sha256": "cfda1051423a584edfdb255a86b31d2d1dac8a79cc2c0339af59628918714f95"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/item_transport.snbt",
+      "sha256": "92e99c68761628c268bbcf0078c832a10de9a6a09b15aa997a01d816fc572504"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/meeting_the_underlings.snbt",
+      "sha256": "ff4d7c4d1137de53cfdc9d377c0815824c27e6c0708e63dc849d5bd11565332d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/mekanism.snbt",
+      "sha256": "5139b1d203e008f4384450290b8f91b32eb8205233442d19454e3da9a6acccfb"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/moving_items.snbt",
+      "sha256": "05cae440b88a010550d936893ceddd95d1d04c26f0347c99bf351181cc36cfbb"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/networks_for_xmen.snbt",
+      "sha256": "892c169490096ddb404ba4913516bd0f71366e2fc66246d2dbb530adea3559b8"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/powah_to_the_person.snbt",
+      "sha256": "08720c42a92e839797f37715fab25aba1d4f581e164621b3ba847fb503eecf3a"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/quantum_singularities.snbt",
+      "sha256": "f5f0d79d77f81617d5f13ddca30929c28bba3c4a255e05dc47ef7b6cc541f2a5"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/the_slaughter_house.snbt",
+      "sha256": "e1bcf7a09e098df00b8230219bf7f4ccd9dc644b60cea95699ff324bbc1615b1"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/thermal_content.snbt",
+      "sha256": "9c2874005afcddc87f7e03d887b5cc4d71e1d00fa457d19f36e7b16d37c56110"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/tool_tinkering.snbt",
+      "sha256": "6a96a45fe2ad94468d929ac81b141809a4c96b09bf1234214b920fe84847cd81"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/up_up_and_away.snbt",
+      "sha256": "2afe805616f426919038189bb8e721f339a04141cdb4192a41cfbc59a2732fcd"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/utterly_scrumptious.snbt",
+      "sha256": "eac674d59f05c31c5959329361eafb4b39c3292834880755d88607d1c7bc665c"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/whats_left_in_the_end.snbt",
+      "sha256": "dba03904408ce58871ce321f16e7c59181e3be524a6df3e0b0077269efa87ccf"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "sha256": "40c1126192a9b5a6160498c4c2f5fe91ed330a5ac732f7abc10189a7fec9fbe5"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/curious_rewards.snbt",
+      "sha256": "540fb04fb4a75fabf6304a03007f80c1b658201849688accebb4d0b06488a483"
+    },
+    {
+      "path": "config/ftbquests/quests/reward_tables/end_game_rewards.snbt",
+      "sha256": "00d37a7f05f8b785a2ccd1d92c349d4551eeeb105a143c1018efcef94bb191e5"
+    },
+    {
+      "path": "config/ftbultimine.json5",
+      "sha256": "a008d7eb4d9674525ca2c0c5ca39816518709c96ce0f2f7c7ff3e3449c10fc09"
+    },
+    {
+      "path": "config/ftbultimine.snbt",
+      "sha256": "d98ea5f174caefa399cfa2ff8594c4a4f72b64203585c936c64dc578efe9dabb"
+    },
+    {
+      "path": "config/gamestages/known_stages.json",
+      "sha256": "e36ad1bc764d21bb27017864bd9a34a738906ad9937cadc7b9ed7054bbfbe7d0"
+    },
+    {
+      "path": "config/immersiveengineering-client.toml",
+      "sha256": "fbad8aa9ab5a4c84409e7185d97ad8d33d8db03a586c0a835dc50a8912f09747"
+    },
+    {
+      "path": "config/immersiveengineering-common.toml",
+      "sha256": "93c6ad3bc694ed432860b9f3af0880ed67c91d0debadb324e052db8ee49fe95f"
+    },
+    {
+      "path": "config/immersivepetroleum-client.toml",
+      "sha256": "4d28a4c63054b496c94bc9c753c1f955054904c1abee388f7f9d84d58992c535"
+    },
+    {
+      "path": "config/immersivepetroleum-common.toml",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "config/incontrol/experience.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "config/incontrol/loot.json",
+      "sha256": "970935f0ccd9355251534872260f1ed31893a0cdaf195b9be2ef93f62b1159de"
+    },
+    {
+      "path": "config/incontrol/phases.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "config/incontrol/potentialspawn.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "config/incontrol/spawn.json",
+      "sha256": "f6c7a3cf36039f7763845dce48dad79b7bb0faaf02ea329887b389b97e37c8ad"
+    },
+    {
+      "path": "config/incontrol/spawner.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "config/incontrol/summonaid.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "config/industrialforegoing/machine-agriculture-husbandry.toml",
+      "sha256": "4d7b094d2fb13299c236d340c042d5f291c78e249f756e9cff15de9b7ab6f5b0"
+    },
+    {
+      "path": "config/industrialforegoing/machine-core.toml",
+      "sha256": "9f641e89d1b4ece867938d48c572e6d0ca34908cb26096bc9132c971ff520a80"
+    },
+    {
+      "path": "config/industrialforegoing/machine-generator.toml",
+      "sha256": "a1cb7c2914ee4cb1af12c5f9e745449687171028dc70b495938eda752666972e"
+    },
+    {
+      "path": "config/industrialforegoing/machine-misc.toml",
+      "sha256": "6efdca3f350aa6e038f4bf0d1785f6f81c602223bac3af38fdc8f127c508bb8b"
+    },
+    {
+      "path": "config/industrialforegoing/machine-resource-production.toml",
+      "sha256": "1d69c354bf3d47b8f00cef859e1062a8595fcf5c31058b1b735d289b06c66247"
+    },
+    {
+      "path": "config/industrialforegoing/modules.toml",
+      "sha256": "c86bc9091ddbe362b3e148582744856841af4c079d193f13692971fa6f26bf7b"
+    },
+    {
+      "path": "config/invtweaks-client.toml",
+      "sha256": "f902efaa319dd69709000a5bbff442ab622a786418a990e4eb9895f78bd20367"
+    },
+    {
+      "path": "config/ironfurnaces-client.toml",
+      "sha256": "35367ee9751a83817a49a879371e8bbd39bb8c1e5e5e99feac051875d83be69f"
+    },
+    {
+      "path": "config/ironfurnaces.toml",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/bronze.json",
+      "sha256": "ed43b9f7f666c9c2a6df0ab94f9a8d347c3d903bf5789f5a47deee1f3026cc47"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/copper.json",
+      "sha256": "2d11acb598434a532acfe9c16e96632ef9055eebd04c48d27c1ea0ee95fcc681"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/creative.json",
+      "sha256": "d3220958b0d2d02490c5a1d04a1324654cae0dfd2d595ad66df733c26853ccc0"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/diamond.json",
+      "sha256": "2367083de1195aaad6092207c584d20c95e0563e9281e89523762dfbb8d46e00"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/electrum.json",
+      "sha256": "cf114da9fece221d36381772dcd5a4299a30c6a2f7a1d9760da75939f5a3d8f1"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/emerald.json",
+      "sha256": "e8e5f69d3b505a1aa32014c85a3929b3254e516ea76ba6fb65de766c12c4ac7b"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/gold.json",
+      "sha256": "47c879be058efb0003987d126e582fbe58c9076352f59a8e6262dc32ce698e33"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/invar.json",
+      "sha256": "c7c9e9129356cad91fba18436da93f01f6ccdbf22d52fe8ae30dd88bb00d51dd"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/iron.json",
+      "sha256": "31c6c982e759d9d8550778909522e81d7de12767b2f8fa54b080b65243342069"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/platinum.json",
+      "sha256": "7c0b428334afaae6054f92b17c83fdb318f139f92384ec3cbbbbc7fb339fc863"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/silver.json",
+      "sha256": "347dc37e84913cf5ce0ec19d68cabe0e7c5bb138da69663d864bf865ad1b772d"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/steel.json",
+      "sha256": "672e6c0954bbe3dd270080f1f91ee3513ec9ddbec6d84e6ce2c9d256abfaef80"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/stone.json",
+      "sha256": "37cfac946ab2277aa5cdf37263c49c4b4ab9b78da6d813f389b1300871a1b737"
+    },
+    {
+      "path": "config/ironjetpacks/jetpacks/wood.json",
+      "sha256": "4d1ef340aa13f55b491a36519a9523570dc2a83505f120f200488a81bb3569da"
+    },
+    {
+      "path": "config/ironjetpacks-client.toml",
+      "sha256": "9d5d48350ee264739a553a014170bec0504750d74dbe2fb1218d827434b47e51"
+    },
+    {
+      "path": "config/ironjetpacks-common.toml",
+      "sha256": "e29823b6881b3436ac8f05b68d51e0d5e90b0066cc32785cb44c8e852cac7316"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "sha256": "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
+    },
+    {
+      "path": "config/lootr-common.toml",
+      "sha256": "59dc4b0196643d0f041a430a5cb107193ee82d761df08ec810d3ef665df9579d"
+    },
+    {
+      "path": "config/mantle-client.toml",
+      "sha256": "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
+    },
+    {
+      "path": "config/mcjtylib-client.toml",
+      "sha256": "5021cc36ad43ccecab04959856ea76c3d39f3e0739478e07f16052eb27a5b812"
+    },
+    {
+      "path": "config/Mekanism/client.toml",
+      "sha256": "643c403df8985a1160ae15b29a8d9ce308f31f5b33a194670d099c241fd44a6b"
+    },
+    {
+      "path": "config/Mekanism/gear.toml",
+      "sha256": "fbb5dba19730b4a3526059693a98bd78d743ea277e3f43437d893cc25d08bf5d"
+    },
+    {
+      "path": "config/Mekanism/general.toml",
+      "sha256": "3d0df83f9d1329d78805413c5a5fd96fb4058ed0a9d5cbaa3b7c79b15dfa8ac3"
+    },
+    {
+      "path": "config/Mekanism/generators-gear.toml",
+      "sha256": "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338"
+    },
+    {
+      "path": "config/Mekanism/generators.toml",
+      "sha256": "95d8521cee0bcde6e02dd6a03b41c144a1e8c93b95712b4c5c64a08e34d101b6"
+    },
+    {
+      "path": "config/Mekanism/machine-storage.toml",
+      "sha256": "abc3ce6c377828a2c59bd27072ce9ea67d97d0336cfcbd51c29fdc2402b28424"
+    },
+    {
+      "path": "config/Mekanism/machine-usage.toml",
+      "sha256": "44136377f2e447970b8ce211616bc06dd4ff1151c25544cbbb01c4318bc0de06"
+    },
+    {
+      "path": "config/Mekanism/tiers.toml",
+      "sha256": "4faf04198b63a256ca1540874b6ebf4daeb62f96e09ab27047fc79b02d29cdac"
+    },
+    {
+      "path": "config/Mekanism/tools-client.toml",
+      "sha256": "adf9f43d65b332f8212d72dd847cdd19ff3f92bd80dd072011adcc53758db747"
+    },
+    {
+      "path": "config/Mekanism/tools.toml",
+      "sha256": "4db159789e907bbd87b6c3eb6f7e4675c30e81d1f4a6c0f0e2442e4391dc5bc2"
+    },
+    {
+      "path": "config/Mekanism/world.toml",
+      "sha256": "7f1932d19d1085f11f1bc3e2cf7469099d81d6a89884c9c85dd890a677931319"
+    },
+    {
+      "path": "config/modnametooltip-client.toml",
+      "sha256": "3b484f7728ce8a981af848d19d0f3eec9ad27c1a047bb4d408ac5ea00817990a"
+    },
+    {
+      "path": "config/moreoverlays.toml",
+      "sha256": "d7c571d2ddc6d2b7d76f08007a028e5c1dd2ee2995b8cfa844340f05dcba3367"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "sha256": "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "sha256": "0a6ab48eaea9ca8d3ace6d9724bdae134ba71e310c9cb44b48c5c06de49b9482"
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "sha256": "5d47dd0a56c005c033f9ccc4318f275ba5c9e89550ae8a69dbc672e11167ef56"
+    },
+    {
+      "path": "config/openloader-common.toml",
+      "sha256": "b74e0274a519e547f1f83322c2de4a3c15f7b497911b03a6d748a5f2e8e75717"
+    },
+    {
+      "path": "config/pamhc2crops.toml",
+      "sha256": "c63c090586412e77bcb714fb5faf250a2e26c28701d42c41c96b00c1b658e108"
+    },
+    {
+      "path": "config/pamhc2trees.toml",
+      "sha256": "73758ff41706817bea7968495c210b6b98be66335c64a462a4c2e51949ac834a"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "sha256": "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
+    },
+    {
+      "path": "config/pipez-client.toml",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "config/polymorph-integrations.toml",
+      "sha256": "d34ac3c2cad9f1b6f3542be10b486cd02f5aef237517af2fde5cced2ca706381"
+    },
+    {
+      "path": "config/powah/energy/ender_cell.toml",
+      "sha256": "cfdb1946e45f15194d5914e341cdd7524b06b5d3fcabc073995aa6ccc14a83d9"
+    },
+    {
+      "path": "config/powah/energy/ender_gate.toml",
+      "sha256": "ce925e6b2be3677079d772a82031de85ff5308972fd90c552b1c46dea7910396"
+    },
+    {
+      "path": "config/powah/energy/energizing.toml",
+      "sha256": "e20aafda13b284a9214228cbaa614500c637156c86cd7eaadba1604686910eb0"
+    },
+    {
+      "path": "config/powah/energy/energy_cable.toml",
+      "sha256": "0b10443668a60c8197e689056ffe38d5115776e6a56d43c388979022d1a92af3"
+    },
+    {
+      "path": "config/powah/energy/energy_cell.toml",
+      "sha256": "2fad029a544c888e10391a29f98a46383fee5a89da320677f6bf10440f258fd7"
+    },
+    {
+      "path": "config/powah/energy/energy_discharger.toml",
+      "sha256": "2fad029a544c888e10391a29f98a46383fee5a89da320677f6bf10440f258fd7"
+    },
+    {
+      "path": "config/powah/energy/energy_hopper.toml",
+      "sha256": "27821bac2469ce303d38f3ca4043de70da3f94178d55425e812695ae3fdffca4"
+    },
+    {
+      "path": "config/powah/energy/generators/furnator.toml",
+      "sha256": "28e62a7327889335577e172572a33fc1cbbf8b48a4cb9250bdc7f01f4e706f57"
+    },
+    {
+      "path": "config/powah/energy/generators/magmator.toml",
+      "sha256": "11aa8ecef5bbb1a096111d70f1db1aa8d32cd6735d35b8bdcd5fb7b0bfc813ea"
+    },
+    {
+      "path": "config/powah/energy/generators/reactor.toml",
+      "sha256": "9b4919f120c83467216c84bba28e554426833b621353f9f0d4d355bed188844d"
+    },
+    {
+      "path": "config/powah/energy/generators/solar_panel.toml",
+      "sha256": "d9b1c1c72254ff6b7b6a7a4215f543636373d0fe09c7e9ab0234c53d72082be8"
+    },
+    {
+      "path": "config/powah/energy/generators/thermo_gen.toml",
+      "sha256": "31c76c39c9a72f591024dd062b2c049b58ebbd8083ae4aca840da7abd5ad78dd"
+    },
+    {
+      "path": "config/powah/energy/items/battery.toml",
+      "sha256": "2fad029a544c888e10391a29f98a46383fee5a89da320677f6bf10440f258fd7"
+    },
+    {
+      "path": "config/powah/energy/player_transmitter.toml",
+      "sha256": "27821bac2469ce303d38f3ca4043de70da3f94178d55425e812695ae3fdffca4"
+    },
+    {
+      "path": "config/powah/general_common.toml",
+      "sha256": "8fdb9f1d7e0d30338a274e194f5c4489ace8728ca0d30c44529b1ff2906cc472"
+    },
+    {
+      "path": "config/quark-common.toml",
+      "sha256": "369223f3516dc6819de025ec8e9bfe80fa6552843c1944ec4b0690a20f4d68dd"
+    },
+    {
+      "path": "config/refinedstorage-client.toml",
+      "sha256": "c08f71bb06d9f73bb59021fb16c31b435d7d11e07c50579c1d7177aa92f79d80"
+    },
+    {
+      "path": "config/repurposed_structures-forge/bastions.toml",
+      "sha256": "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
+    },
+    {
+      "path": "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5",
+      "sha256": "f72d36ff252b13897fb60f9b7c2e2b6b605bd47f37ed461f5d50d73f321fb223"
+    },
+    {
+      "path": "config/repurposed_structures-forge/cities.toml",
+      "sha256": "f20e59cda562c64408528da6bb14bbf4203fbdee8f155658127aadf8c887b9be"
+    },
+    {
+      "path": "config/repurposed_structures-forge/dungeons.toml",
+      "sha256": "240926c856232de2fa75d45b04c62333296d0d75c9926e884474f54284009f7f"
+    },
+    {
+      "path": "config/repurposed_structures-forge/fortresses.toml",
+      "sha256": "0a9ed8a993e90df0bfa9601a30de255ca5b33fbc4ae6c8e05c45cb1a4cb6ceda"
+    },
+    {
+      "path": "config/repurposed_structures-forge/igloos.toml",
+      "sha256": "66a0a06587890fbab1994bf85ad25e3854af8564f8319cd25410c0e425f5bf84"
+    },
+    {
+      "path": "config/repurposed_structures-forge/mansions.toml",
+      "sha256": "88eb3c724e5ea45e88762ece219d2666f9da704fa84fdc283741ad3d10f7492e"
+    },
+    {
+      "path": "config/repurposed_structures-forge/mineshafts.toml",
+      "sha256": "64240f492620565922d89c1eee78ed7e720f4b32fa87a8f9f2f4e3556c2a1138"
+    },
+    {
+      "path": "config/repurposed_structures-forge/modded_loot.toml",
+      "sha256": "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
+    },
+    {
+      "path": "config/repurposed_structures-forge/natural_mob_spawning_configs.json5",
+      "sha256": "63b9522d954ad4e851e54d8673b48af5640e93b95ce82183f5e2aa45b52f418e"
+    },
+    {
+      "path": "config/repurposed_structures-forge/outposts.toml",
+      "sha256": "c749e144b6c3d3efb96d312ef82065bae8a09ef3ba490db3eb7f4598417780f8"
+    },
+    {
+      "path": "config/repurposed_structures-forge/pyramids.toml",
+      "sha256": "bcef82552c675857744d1c919dd3a4b526eba1ef8521de128a6a6815559b0a3f"
+    },
+    {
+      "path": "config/repurposed_structures-forge/ruined_portals.toml",
+      "sha256": "8f1200d7879c84bcad90c80e1d7647ab9f99cd7b1fb73b8c2ef7c5b1a61e64cf"
+    },
+    {
+      "path": "config/repurposed_structures-forge/ruins.toml",
+      "sha256": "e54d42ddedd667a2e4c6e182a963d8c234f62e9fc2cd43c7f2faaa91912badec"
+    },
+    {
+      "path": "config/repurposed_structures-forge/shipwrecks.toml",
+      "sha256": "bb98bed369ff9f0ac98fa4af2be44eda897bb9c95140a0f205a4a6644556d247"
+    },
+    {
+      "path": "config/repurposed_structures-forge/strongholds.toml",
+      "sha256": "e08bdfa7f0ac45fdad7728426a8c116a756a7e2e3493396815e725482adaf143"
+    },
+    {
+      "path": "config/repurposed_structures-forge/temples.toml",
+      "sha256": "4f94338b3dabf12b1162225dfd5f941126fe9e54e20f33e6352408fc69fc9307"
+    },
+    {
+      "path": "config/repurposed_structures-forge/villages.toml",
+      "sha256": "d535d020541eb11ff635fb8b975928e7620f41ae721b3f75a5ad3081b03e8b02"
+    },
+    {
+      "path": "config/repurposed_structures-forge/wells.toml",
+      "sha256": "4d727cd71e4ce5f67f253e6ad6cca8c983c2cd53a55cadf484116b0601b03330"
+    },
+    {
+      "path": "config/repurposed_structures-forge/witch_huts.toml",
+      "sha256": "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
+    },
+    {
+      "path": "config/rftoolsbase-common.toml",
+      "sha256": "046b5a650ddcde4b5593f85aba412ee04827eecb18e7277e544ea5ca47ab9a55"
+    },
+    {
+      "path": "config/rsgauges-common.toml",
+      "sha256": "3728463db11fea7b02e2b5e4f81169745a40951bc76fc327bd47c483a2e31736"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "sha256": "c08a0b6c31c13c3b586a9d4d46e23f13a1fc03ef509db802f8ce27e95a33a1a1"
+    },
+    {
+      "path": "config/skyblockbuilder/common-config.json5",
+      "sha256": "48700b7205f7566c26e43650fba706607dd6ca1a9d12b9ae66c75a8d27b02678"
+    },
+    {
+      "path": "config/skyblockbuilder/features.txt",
+      "sha256": "058a2b813fa1471e714a08abf571e7fe544b439f91752773d770a22a8f9442e6"
+    },
+    {
+      "path": "config/skyblockbuilder/spawns.json",
+      "sha256": "9eb1dee814b4c852eec04edbc77aa293adba2e53722a9906e099ef937c765a76"
+    },
+    {
+      "path": "config/skyblockbuilder/starter_item.json",
+      "sha256": "3a42d346c00ddcf61ff8b82dfe2cd58419f7fdddc203eaec775dd5582468d937"
+    },
+    {
+      "path": "config/skyblockbuilder/structures.txt",
+      "sha256": "8800e527b0636d0dea96a2e3e8ca7e09bb03398529e70a223a74eea879666b63"
+    },
+    {
+      "path": "config/skyblockbuilder/template.nbt",
+      "sha256": "f545084f1184b5e6e966c01c253d5ce873f7f7396be5db8d3cb6610cf1466ec3"
+    },
+    {
+      "path": "config/solcarrot-client.toml",
+      "sha256": "d690d686a6976d4c70a9464f0f68072cd022d99b9022a0474e85916c4e555e77"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-client.toml",
+      "sha256": "99b4e23099656f29a868ab6c658c3ed0524087cf13dd21bce69f9e02ff5fe221"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "sha256": "5bedcb8b943281b5356d68474798de0157e9cbab2db0e891816b2b5bb16cd34c"
+    },
+    {
+      "path": "config/storagedrawers-client.toml",
+      "sha256": "50857a5179079fa9c0e77147f667d3eb182edfa15f3e2605a9c18b796bec7111"
+    },
+    {
+      "path": "config/storagedrawers-common.toml",
+      "sha256": "846eb72f9c543d305ac7d06f411fbacbad913c9e750c49ccf31ad4e6b1fe3c70"
+    },
+    {
+      "path": "config/tconstruct-client.toml",
+      "sha256": "ad854761fcda73e385fdcbbf5c9019ed0ee8a1699e15bb5cdb9a5684f3204e58"
+    },
+    {
+      "path": "config/tconstruct-common.toml",
+      "sha256": "d1cdecb943e98305365e99c5cdd262c66dd96d9fd27b9dac0b151029f83658b1"
+    },
+    {
+      "path": "config/theoneprobe-client.toml",
+      "sha256": "92344e05d54c487f1e60bdecce9be813a42fec9ad13eb2a605b677fd84ec239c"
+    },
+    {
+      "path": "config/theoneprobe-common.toml",
+      "sha256": "82db43aba1fa81920c52562716867acf4c771d2e36de64a58abcac1a5cd520d8"
+    },
+    {
+      "path": "config/thermal-client.toml",
+      "sha256": "a6a09cfe3859942830c9813563a688d745e2bdeb81a727a3b958ab231c755ba3"
+    },
+    {
+      "path": "config/titanium/modules.toml",
+      "sha256": "a493e791689fdeea01a75f0ff8a3947191fc1942e3b8ef54c1da5581bd112d57"
+    },
+    {
+      "path": "config/titanium/resources.toml",
+      "sha256": "b899721a918c659186c2008ff20212a87e65b361f7bccb642a9555a31eb47b03"
+    },
+    {
+      "path": "config/titanium/titanium-tags.toml",
+      "sha256": "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
+    },
+    {
+      "path": "config/titanium/titanium.toml",
+      "sha256": "f93a6921cfe7cd42050497b457416718a91e4d5d7ca5d6e4cb043f2a21e6d421"
+    },
+    {
+      "path": "config/toastcontrol-common.toml",
+      "sha256": "6a4b3c875d0c22c8acb79771e58ef5d887541c40426b46d7976975445eab0f77"
+    },
+    {
+      "path": "config/tombstone-client.toml",
+      "sha256": "7cd6af087e5fc026b87a83f4904544a52a2cee44e1ede31251cbec735b19c503"
+    },
+    {
+      "path": "config/tombstone-common.toml",
+      "sha256": "751ec1ac91c2e1f51840f90b552bbad98c73fe3b63fa70ee7500ba79a10f5574"
+    },
+    {
+      "path": "config/tombstone-server.toml",
+      "sha256": "39edc5d8f472ca039213a4f12646dcb2523f5e9c2b7d33dda9c95ba4f7491edd"
+    },
+    {
+      "path": "config/twerk-config.toml",
+      "sha256": "baea3b6798841573c9a58a177e31427aa6dcd2e0ecde8eff2506f3b5ae7c489b"
+    },
+    {
+      "path": "config/valkyrielib/conditions/conditions.json",
+      "sha256": "f7e2b36e1e37fad43fd645b0f9968bc62ffd92d07107f1dfb6a6bf98bada7b2a"
+    },
+    {
+      "path": "config/valkyrielib/guide/guide.json",
+      "sha256": "f7e2b36e1e37fad43fd645b0f9968bc62ffd92d07107f1dfb6a6bf98bada7b2a"
+    },
+    {
+      "path": "config/valkyrielib/info_tablet/info_tablet.json",
+      "sha256": "f7e2b36e1e37fad43fd645b0f9968bc62ffd92d07107f1dfb6a6bf98bada7b2a"
+    },
+    {
+      "path": "config/valkyrielib/multiblock/multiblock.json",
+      "sha256": "f7e2b36e1e37fad43fd645b0f9968bc62ffd92d07107f1dfb6a6bf98bada7b2a"
+    },
+    {
+      "path": "config/valkyrielib/themes/themes.json",
+      "sha256": "f7e2b36e1e37fad43fd645b0f9968bc62ffd92d07107f1dfb6a6bf98bada7b2a"
+    },
+    {
+      "path": "config/valkyrielib/valkyrielib.json",
+      "sha256": "0261e3e484ca9e1d854ef8538af0dfbed812ade63da1e923680a9e13654e95a3"
+    },
+    {
+      "path": "config/waystones-client.toml",
+      "sha256": "f85cb17f27d9f95ea8f36d7c6019a066ff06f08e88cc93ea42fdadfc20e71668"
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "sha256": "7ebbc98a1925c4b55ac6968f7fa9d13048cd4c205b063e6150f2548199dd7033"
+    },
+    {
+      "path": "config/waystones-server.toml",
+      "sha256": "a0c6c69129933677cdcf7500510edc5307aa099f61098c8f8626ca88b43df97b"
+    },
+    {
+      "path": "config/when-dungeons-arise-common.toml",
+      "sha256": "7c5594d65033cd2059040b99757eef9a01c68c7b5dff8ebad2438891a7eb5044"
+    },
+    {
+      "path": "config/when_dungeons_arise-common.toml",
+      "sha256": "464f476c903be5cdcde50b2e0242c95464c5a6fae7c90ad9eb655816984780fe"
+    },
+    {
+      "path": "config/xnet-client.toml",
+      "sha256": "56e6b8fb09691b3f12147a9d4cd5478ea92bde5037dc230c0b449b13f6a6b9cc"
+    },
+    {
+      "path": "config/xnetgases.toml",
+      "sha256": "65e449694a20a0eb64e6216f66c5cafc03a5a33816d66ff832d6789eeae80096"
+    },
+    {
+      "path": "config/YungsExtras/forge-1_16/README.txt",
+      "sha256": "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
+    },
+    {
+      "path": "config/YungsExtras/forge-1_16/wishing_wells.json",
+      "sha256": "49b83e84fead0eb074f28f55daf593a62715c9fec3dbbf6328d715ba3a9ad1ac"
+    },
+    {
+      "path": "config/YungsExtras/README.txt",
+      "sha256": "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
+    },
+    {
+      "path": "config/YungsExtras-forge-1_16.toml",
+      "sha256": "0aa7cd01a4fcdb6a3be52f1212d6e5a6fd25e283de37a51841475b132fa20399"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
+      "sha256": "0af4a5c9c743c56273b8594f9bf1f57a4adab850c4ac1356b615750b8bb649c6"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-server.snbt",
+      "sha256": "03d6962c178f4740a7112854632851c0bb0be374f9532cf48ce7d56b588e3505"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine.snbt",
+      "sha256": "5ac86027a679fb0478b86b9e25ed91dfee1561b599ac813b30adb3df8f7cc29b"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine-server.snbt",
+      "sha256": "3f21b71a1d897aa7a30d100ad8bafd941693fbd1d4dee76fe587df10c64419e2"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine.json5",
+      "sha256": "a008d7eb4d9674525ca2c0c5ca39816518709c96ce0f2f7c7ff3e3449c10fc09"
+    },
+    {
+      "path": "defaultconfigs/solcarrot-server.toml",
+      "sha256": "b6639a788a9f3a037a22245f0f8177d9aea9aa16287a2197ad3b39a3cef601a5"
+    },
+    {
+      "path": "kubejs/assets/cuboidoutpost/lang/en_us.json",
+      "sha256": "08dc576e4bb32e1ae3445227e77d57b37c4c06958c97b14b0fcba0c48d6acc31"
+    },
+    {
+      "path": "kubejs/assets/cuboidoutpost/lang/it_it.json",
+      "sha256": "08dc576e4bb32e1ae3445227e77d57b37c4c06958c97b14b0fcba0c48d6acc31"
+    },
+    {
+      "path": "kubejs/assets/cuboidquests/lang/en_us.json",
+      "sha256": "f2cf61b384c670226c51a47486b30c504aac1ab718df74d1017bbf26a5c42740"
+    },
+    {
+      "path": "kubejs/assets/cuboidquests/lang/it_it.json",
+      "sha256": "8b4b06cadbf0c8082d07e722148e645b6a72043d81321d2adb90135470c87568"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/en_us.json",
+      "sha256": "635c754f287e6be29bc774f706d9d1ed3f9501222eadd3d8db2cb3bb1914a639"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/platinum_block.png",
+      "sha256": "ef6f4ffcaf43e10fbe207cddc90153c5bd29876926c55bb4e553eff8b7d793c3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/albumen.png",
+      "sha256": "c82e78bbc860f179dd22a4ae2d5df75326555129bbb8910c486a79193a4d7488"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dna.png",
+      "sha256": "cd631a3fc3251057090e66e2d0b2bae5dece65ffc5bd7ccf8c7e6d7720174fe0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/platinum_dust.png",
+      "sha256": "65e9ccdfd375622cc55b44d9a4912a79346533ab367a2b315083c71fb968a63f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/platinum_ingot.png",
+      "sha256": "44317b04d21bb57c7f93bfa9b01459beb0ba7740c19207403df48d55a0ea3b2e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/platinum_nugget.png",
+      "sha256": "4ebf2cacfa1dcb60ba4d18e2c08fc325251a8c10a6b62be3a8a36a9349863566"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/potion.png",
+      "sha256": "6a09a39bb6c41bc92bd5eca1f51caf5b582a85f68206b164476c8e14a4669416"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/potion_overlay.png",
+      "sha256": "a734ecf66d6a09767592c6b38c453854290d47c987ea122712bad37dca9683e9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/primordial_gloop.png",
+      "sha256": "2d66d410d52448aaac8fba30b991dd3e27d688973291e8567bfba5624411af25"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/rna.png",
+      "sha256": "4ca86d102c509782091da95988ca8f8c48f73c72fb3b2efb78a90332606c7b1b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/ae2/ae2-crafting-cpus.png",
+      "sha256": "607be7269b67cc9c2bcb09b4cca9faa598e8b95ffe0fb2a65445fb72aa393e76"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/ae2/ae2-furnace-automation.png",
+      "sha256": "80ba27b4eae6101266283c80002cd6e7fb5ae6463fb1b94dcba5f9a0eee7e218"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/ae2/ae2-molecular-assemblers.png",
+      "sha256": "72912a92cd828af5d6661b09b6147ededa0b07d06d35e62095491d8085daedf0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/background.png",
+      "sha256": "875b60390a3067ecdd2269c75e46c25aa90b283730ba989eb59a974da04cfe90"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/basic_smeltery.png",
+      "sha256": "9cdc95dddcd269b4769a7e251996989b40a9aa06493e606eeb15827f30480216"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_manual_washing.png",
+      "sha256": "96b04da56d2a3805d034dc7c0e46465bbbbefcf5695965b639303f69ca05e039"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_10a.png",
+      "sha256": "7bd64ad49b4ec2b1e32f431d2048bf8d5f531a60756c0037a22bb0b62ed29209"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_10b.png",
+      "sha256": "0a996de99cfb47f928f415ac7ad2b3562216c73ae9bd08e97ccb9d726ef0bc02"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_10c.png",
+      "sha256": "1695495357000c98646131980d7ee82216f7a84da6e0c431f01416ba333d3cc1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_11.png",
+      "sha256": "0a1c76b9209a559f8c611439e6596225e6dfdf483b1244fc125e16004efebe77"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_1a.png",
+      "sha256": "8dbf121e39bde18346ba00b3c17c22ff6332be6bd4ead2664caad7e8c81e26ea"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_1b.png",
+      "sha256": "254ccdf9fe43d71d0fb7c7a21079c9a78cbdcd283251f3e5d5dc6719911f51af"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_1c.png",
+      "sha256": "ca17280143a35d0090866aad8cc429e773a0b67372f30c498c20d253de6bf644"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_2.png",
+      "sha256": "3b992b0857d0a3fad98f0396401c71cc38bcae468eb3c47fafe4f58eb7e23bc9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_3.png",
+      "sha256": "123341d71de19775f77dbb84b6e26a7cbd60b161a8a8cc39210746a53f74b256"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_4.png",
+      "sha256": "6cb278deb7c8e354b803945f19a39def50140e673ea9acc199a085546ac29b6f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_5.png",
+      "sha256": "bfd20790ece5af56928abc3bba2eacd8785d6bd3b4d61020ca65cebb4909221f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_6.png",
+      "sha256": "0006700ab75b566537509ab7292ab28aaf04f126335af2b79f48be8b978a5211"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_7.png",
+      "sha256": "74df5e8db5a2d422cdf60a5077c7d8e46a91289cb83685394df22d9073a0302e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_8.png",
+      "sha256": "db19078c3c81dd1acbc288a3dd12e1a23391294645052fe72b220618ca9b0241"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_9.png",
+      "sha256": "2f0d8fa51f2b4018b0081c7ebd53e4379010250b4bb572d0708446875112b077"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_sweet_roll_step_power.png",
+      "sha256": "ec8915cd6d6f2ace5f7ef40b391b3807abd8f3c4992652ed0463e019a363d2ad"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/create_water_wheel.png",
+      "sha256": "1fe133b5d4103ffb96746c30477d5af23fdb293179bb2c5f76c8970ae0a421f6"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/energizing_orb.png",
+      "sha256": "c513a8d8fa99c35f36197753432f242207790f026ae5a0e0905b9dbd92f4f54c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/energizing_orb_config.png",
+      "sha256": "c5a4eef46efa4a56966267d6417bbfb7310a2ec3f2b66aea09932eaea1523922"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/ether_gas.png",
+      "sha256": "b3f9a96817b51741dfbf8300006e5d0675329d65552c6387833e8707ad39d535"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/farewell_ftb_dependencies.png",
+      "sha256": "5a3f4e87446566435b47d96c1662f8b9f369bc091d789a6ab43cbeff0d064b3f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/framed_drawer_crafting.png",
+      "sha256": "bc574fe0ead267dbd006bfa5b48b467972cda34da9ab9b76f5f0d4e81ab42320"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/iron_contraption.png",
+      "sha256": "49f10f56246d207a7d75fdddb2ff5b74bfc2cbc5fa796de29cde4699289dbc00"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/lithium/lithium_dust_1.png",
+      "sha256": "4084aea1dd1b9eb4c84ed99c8809f7d3c854f3d45a6c4fa40f10f711bbda309a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/lithium/lithium_dust_2.png",
+      "sha256": "97f26bceb21ac319654dd47d20fe824df379dab8355a435c3c60cfccd218ce9e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/lithium/lithium_dust_3.png",
+      "sha256": "93950c6def55c009cd1669abab69f093db4ad4dd8b4244ec243ee9451c26bb40"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/lithium/lithium_dust_4.png",
+      "sha256": "336e2da66c603c7fb13193630f8adf4c27415b21f757a4a9ca8b9f0785a8905d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/logo.png",
+      "sha256": "7690ea56c400b8fc2d9c30fbafdaaae81ded8cacb2af437cca85b3e6a38ff125"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/netherrack_gen.png",
+      "sha256": "35df1dcb0d5f406b6533fa1d148c7e5e859fa29db1305e5066bd8029e81c64e3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/netherrack_gen_config.png",
+      "sha256": "924dc8279073b399fbc958576772f99ae2d72c2a1873d9957a48e02ab08df13b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/seared_melter.png",
+      "sha256": "36e6d13f38941f8748a65f13011b650b579046054f5ed9279f4496e46a2a7fbb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-1-water.png",
+      "sha256": "9ef068bcfe08dbeac2ee56141d5f5f9c9bee1a48ed0adf84f6351006f874b2a5"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-2-witchwater.png",
+      "sha256": "9e8d3496801cc70af576dd7ef5698306f4a50bd292d542e5c60194c20cdfe86c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-3-sand.png",
+      "sha256": "98d2d81ce5118fdd2ea37f2ebce22df5e52275d44107b3c0e04b7f7eae7fb23d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-4-soulsand.png",
+      "sha256": "fa68c476eccb53fdccdf848681e85b2745fa6e645d726612317b56efbef60f2c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-generator.png",
+      "sha256": "53322c629fae90e8f317b21212b27f8480edb01d58d4b2fc039f5866e460e7af"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/soulsand/xnet-soulsand-rain-protection.png",
+      "sha256": "0147ac641b326a53f56fdb994d4e31399febd3a94b932cdbf24ca5082601dd1d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/quests/under_construction.png",
+      "sha256": "9d8ae6166b83405a832bf77ea012412f484621116c3fe99995cc92595cfb2300"
+    },
+    {
+      "path": "kubejs/client_scripts/script.js",
+      "sha256": "f38591ce133116d67ea7b73efac4efb04ac491a178d32f6e825a875a6b2f4785"
+    },
+    {
+      "path": "kubejs/client_scripts/unify.js",
+      "sha256": "d580fa5ea73266732a218256686d76a30caa907dbf8b00879720a93b463dcaa1"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "sha256": "de15cd39943122ca693fd087434aa2e9ccd3f90ead146ad7ab96f4e24d583b6b"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "sha256": "8a9689714ee97f07902fff4deba50f36c57b92d7060830da82c5c1819bc55f63"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/aluminum_dust.json",
+      "sha256": "b7b4f99353f60b25a3755901c6e078e8e7160ec601f83b75eccf838c72dd4c8b"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/cobalt_dust.json",
+      "sha256": "65658ea2c0197865806f1d82d888e31af677da6504cd6bacc9f753a54e8469f0"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/copper_dust.json",
+      "sha256": "440613b89d27aff2f1046c8829ce67fb9ac955b227c9e253567d0eca047d642d"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/gold_dust.json",
+      "sha256": "5a5907a9baf106daf4ac4611fee299d958541c757dab4c1f7cda0a1a420fd560"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/iron_dust.json",
+      "sha256": "7136436998144127036664c6306a704c606a8cf0362af3d08f2db5d5dd0f16bd"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/lead_dust.json",
+      "sha256": "5fc00cc2bc01d534c0593ac131ff4b54596f4498c94eb194d01c1f6b55a980fa"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/nickel_dust.json",
+      "sha256": "4c4a2b2618e2b1a786cbe4b9ec696ef25b70d0065bb8497237dfe59c6f814164"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/osmium_dust.json",
+      "sha256": "7bd6501abec031c96a09728821c2c9037d959f363aea9581a16635e0e764da8b"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/platinum_dust.json",
+      "sha256": "df6aff2aedc42c04020eceb5199ff7a78587e1161c86bea6c0ddd4d98ce79758"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/silver_dust.json",
+      "sha256": "9acd9d47f250895ae19b108e180ce47ac3859a7543c129bd1884a7bd868fb894"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/tin_dust.json",
+      "sha256": "8edb9b38257a3c144fc0a0822b6df95cd564104b9bd0190d34aa983aa4421e39"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/uranium_dust.json",
+      "sha256": "a940ea588f639f7dbbbe2e5aee1256585ea576db9f35bd26c27ab0ffcb6d00cc"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/dusts/zinc_dust.json",
+      "sha256": "d115928a833f39ccf4c40cd99d842850c7e5b0957219b860f9d0a3bdf6046f13"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/aluminum_plate.json",
+      "sha256": "baeee11981727f4283eee131b2e867ff6d4dd1f83f46d797145817babbf7c4a8"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/brass_plate.json",
+      "sha256": "913cad783525160ee84f6d8b1275f239e91f5ce778a024da63923a684c793052"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/bronze_plate.json",
+      "sha256": "c214ee646d03eef56840fdce930799c7729c29b14d45da4ba779b74402bda2be"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/constantan_plate.json",
+      "sha256": "73ee3af3cb28f29aedceedfbcb4b3fcc9e756435d13b528c2a80f81a79e6c0d2"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/copper_plate.json",
+      "sha256": "f88168a6e2d0847841d4a85adb0f1934b6a689457335719947c757d16f4982e5"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/electrum_plate.json",
+      "sha256": "2d842e8fa8069a9b00db2852947cc444177443fa2bbbfdcfe24551ccab11caff"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/enderium_plate.json",
+      "sha256": "e6e4c811b8bac213719133a10d597f9ecd853d99fda516abf883e00f242ffec3"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/gold_plate.json",
+      "sha256": "7bb8913f5cab2fff1e226998a3cc0e01812785b7f73446e2fc724a3184c19042"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/invar_plate.json",
+      "sha256": "1857611a452f920e04e62deb281e20df3e6a14aafc8a2e2b2afaf84234d06b92"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/iron_plate.json",
+      "sha256": "06f83026e57402045a218083d31f10790c22b15e7e9d9065eca1a4f59342e8bf"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/lapis_plate.json",
+      "sha256": "940b1a7a5ec944436f09cc9ce970975521f8558f9899ec4389415902d9cc041f"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/lead_plate.json",
+      "sha256": "5f3752107676e138a9608ffdc7b3b95ca80eab30d172c8a0d969bf3d89b1e643"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/lumium_plate.json",
+      "sha256": "04919f0dc65c6e3ff87b5f5f0ffbd66c1c183a891efe66444e51ab3b3093a549"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/nickel_plate.json",
+      "sha256": "4909d46a26ed9730024cc1726369362afdd217c40c67c65645bddeb24ae6619d"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/signalum_plate.json",
+      "sha256": "6f5d17a2c4e24dc2679aa9ba9f4b56fc3f5c5fe53609ca5d4fe459ade5b8f8a2"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/silver_plate.json",
+      "sha256": "c0a10d038aa0e6891c13a0dde64bcac7eb78aaef3646696da71cd33752999822"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/steel_plate.json",
+      "sha256": "17c3e673e2009f26b1db2022e061670bd67d6b091b042bfae60bf537464f7e24"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/tin_plate.json",
+      "sha256": "31c6b824711ca437c834212065854839a340be44925dce629c29fc7d1898c1fa"
+    },
+    {
+      "path": "kubejs/data/cuboidoutpost/recipes/smoosher/plates/uranium_plate.json",
+      "sha256": "c2f66c9681882c3feb16eedbf0c2cbe366e38e116b56403dd3a65445b83cd448"
+    },
+    {
+      "path": "kubejs/data/pipez/recipes/energy_pipe.json",
+      "sha256": "aad2011f739948701a2887fc6ba2f60d817263e47e0873a3367ada80ff5ac252"
+    },
+    {
+      "path": "kubejs/data/pipez/recipes/fluid_pipe.json",
+      "sha256": "1f6c3d45ba359bc4424113ab7e0ee021bd85dd465ce6d4508d433047abbc8236"
+    },
+    {
+      "path": "kubejs/data/pipez/recipes/gas_pipe.json",
+      "sha256": "2f9ec18d0f06f9280395af0e4fc608f4febe9dddcfb1fdb6a9f164b681f7ad54"
+    },
+    {
+      "path": "kubejs/data/pipez/recipes/item_pipe.json",
+      "sha256": "06bb07f7a58f051bd0e63f785dde31d42060323b6570b2336dd1c8299a6f0ac2"
+    },
+    {
+      "path": "kubejs/data/pipez/recipes/universal_pipe.json",
+      "sha256": "63cbf4c9243769b1409bbd68e6d9a9f5e3d19deb63976ea0678ac98727fa429e"
+    },
+    {
+      "path": "kubejs/exported/tags/blocks.txt",
+      "sha256": "87a1d9a8a2795ea50cfa6c8fe3255223fab3dd9872935ffec84692c22c9895a3"
+    },
+    {
+      "path": "kubejs/exported/tags/enchantments.txt",
+      "sha256": "b69ef4f65381d9a1f0571f9acdd0c6d0cace7d6b0893f666c0a823936e7d1a6f"
+    },
+    {
+      "path": "kubejs/exported/tags/entity_types.txt",
+      "sha256": "995847b17dde635c967145ea43eafa44940f3c195524d730a7dfca6663a17d22"
+    },
+    {
+      "path": "kubejs/exported/tags/fluids.txt",
+      "sha256": "9429982e0c95a349a2065deabf86732cb8eff55332a03516fba2d4cf146263cd"
+    },
+    {
+      "path": "kubejs/exported/tags/functions.txt",
+      "sha256": "94e3e348e74680b227d932215dd9a67b9d79a2aeb96772ec48ae94db87f4a847"
+    },
+    {
+      "path": "kubejs/exported/tags/gases.txt",
+      "sha256": "1afe6a710f8d0bd7dedcfead3ad73c372dbf9f3391a04411c3d652ad53e2dd6b"
+    },
+    {
+      "path": "kubejs/exported/tags/infuse_types.txt",
+      "sha256": "1db08d1d805e80684a0bbc427b2cec94a60acc01deec60aeb0b4292b5dfa62e1"
+    },
+    {
+      "path": "kubejs/exported/tags/items.txt",
+      "sha256": "539c26e9f5b6c331355cc7f453cdc41c75711ed744c82daa7fa91f0e39413155"
+    },
+    {
+      "path": "kubejs/exported/tags/pigments.txt",
+      "sha256": "b69ef4f65381d9a1f0571f9acdd0c6d0cace7d6b0893f666c0a823936e7d1a6f"
+    },
+    {
+      "path": "kubejs/exported/tags/potions.txt",
+      "sha256": "b69ef4f65381d9a1f0571f9acdd0c6d0cace7d6b0893f666c0a823936e7d1a6f"
+    },
+    {
+      "path": "kubejs/exported/tags/slurries.txt",
+      "sha256": "1e36471a63ef1c7d23dd30874278cefa92a17574892ffe8558e66bad81ed7b6a"
+    },
+    {
+      "path": "kubejs/exported/tags/tile_entity_types.txt",
+      "sha256": "b1ebf7adcf7115eac4d0c475f0b93c8a55cc979a089579d3b1d6ada35cd2713c"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "sha256": "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/loottables.js",
+      "sha256": "29557b1cf8823c6c8aca3997eb902bc4184c2cb8012fbda20cb86023110ecfaa"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/auto_sieves_and_hammers.js",
+      "sha256": "61153db8993f5875104f0e0890d7965d9c3f5c1e769a5968bb6eefa1d0f2365b"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/bait.js",
+      "sha256": "ca79e79e7fd7f7a5d89f39f8f20c5590cdd3c1fd9c31a2d17e1508634d2b7d04"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/cdt.js",
+      "sha256": "64c45527cbe4fdbec466708c43e68fa2165451f03865eed6703b7b4695b8aea3"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/cloche/fertilizers.js",
+      "sha256": "827aaf08edcd06f267aac96f92a164e1e1ab6e2f318ffa5ed305bed649b74f13"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/cloche/pams.js",
+      "sha256": "97c8d1816b91b88154e017d01d0a71dc8c237786ea454095728244dc2f461ddc"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/create/drying_cupboard.js",
+      "sha256": "59571d3e5a4ef9256f2e67eda1d1f8622ab5ef68b7b31d541f611cd59e42f007"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/create/glass_panes.js",
+      "sha256": "ec5630c42295ed37ffd532708e8ebcde7accb5d7de58210ad2994cb2454692a6"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/create/material_subs.js",
+      "sha256": "5ea07abeb235bc5b6bb8eb13030134b2c2a3d8a55a21bf139429cc8a9e260fd3"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/create/mixing.js",
+      "sha256": "78668be64a9f102e4e2a943487fd44ded4b57ddeca9d2c59896fe1bf961e2221"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/create/pressing.js",
+      "sha256": "6ebf3dd04b9d8ea0c158d5da1f538d2878fd228c77def3c99ec466d4c4473709"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_ae2.js",
+      "sha256": "e60f3caad8753ce4730d50a4ef765661dd60dea1e65db09aca3d1194f265a47c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_create.js",
+      "sha256": "8d57a3434d2aee24ae73bae81470ede6fe1f1ca9cba127575a6f2d0eebf40374"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_drawers.js",
+      "sha256": "92088f9632286daba0068819a2106ae2d9ce129f691bb4c97e17ecfccad62c9c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_immersive.js",
+      "sha256": "ab1bf6d47ff730622d471db5aae035235610ad38465f727e4c8529a4d66ca509"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_mekanism.js",
+      "sha256": "2453df165b626cee60e96002088b98ace7e069bccc1980dabd6c6605d024cbb8"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_powah.js",
+      "sha256": "e10b01f7dd99115d3e05981581175606eacfe196ba683c0bac919f15c6744b72"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_refined.js",
+      "sha256": "b5700c5d733bd17bd48d24d9954cc43871333bb47744b024b4f5233a7b8a89c9"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_thermal.js",
+      "sha256": "e2d526083f1ac70ffbcb857c3d4107d23bdc9b0d4c781fefd1b2affe76c72198"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/creative_tinkers.js",
+      "sha256": "0d5f51fcf0fe0b3b7afee2ba927a7b6a2565316792d8aa51956a2f1501222bcf"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/drying.js",
+      "sha256": "9c9da876832bce66bd6f9246dc02ba56be2a6bb8eaa8363397f5ac7e677808ea"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/excompressum.js",
+      "sha256": "a0f5ce6987d5447af1002049190c3a61988ac7b5d0d5cf48e74016286acadf89"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/exnihilo.js",
+      "sha256": "4a7e5d20f327acd223d47eceb8d4eb8996863c36c18a9dd149721ffb9805c4d8"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/food.js",
+      "sha256": "0da3bf6719df60b1e4bd16dede9c4c2db6e058bc7655891c5f679ac87b72850c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/gating.js",
+      "sha256": "48166da8405a50dd14ccf4c2ffd620625a889d0338e23c3ce8c3d074ac9671e3"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/heat_sources.js",
+      "sha256": "b0db626bd7d3bf5db46f8e32eb43edc7a19a2991807b9768490d13dabdd7e250"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/inksac.js",
+      "sha256": "898be7cb2ade06d08352cacfb31600d7f3a9a2ac15f505d90d9944ffee3d9396"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/mekanism.js",
+      "sha256": "7abd029bfc2f95aea45a982500aae3092a2aa42f01a5814dfeb05e945c68b9f0"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/platinum.js",
+      "sha256": "5c53861d0b6219edc31ddab405317be73a5071300e8061cd3730b4955f3f0a41"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/qtc_seeds/qtc_flowers.js",
+      "sha256": "776ee9e8e77286477d0de4ee934feb0154a7f8020cf8bbdf3ee995b38933fd31"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/qtc_seeds/qtc_seeds.js",
+      "sha256": "61ac462ab0e3797eb4b2738c41e9f5a5830f1b0ba3a6f4c5ea82cd98e68609ad"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/qtc_seeds/qtc_trees.js",
+      "sha256": "3e252435a54f48488dcecd3372f08fad7e4b1b2ad2310b029006f5df815623da"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/recipes.js",
+      "sha256": "a895fd373b6be20a2b33f2590b9c7c1d85593a14d9ee3bd3231b7da4f1e86bb2"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/recycler.js",
+      "sha256": "ef251e8473c46c53078892794b53a8fc0d1ad1204b56e3dc69e0247447e04fdf"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/calculation_processor.js",
+      "sha256": "e7b08be77f0914248187d269e41a273ce578307de77e06c2d7d0db1fadade634"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/calculation_processor_press.js",
+      "sha256": "9b1df6ed3eb71ac8501c79bae9ceb2bdfcc836ff970eeafb2ea1dbc8c027cc4b"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/calculation_processor_print.js",
+      "sha256": "6cdfa4c28a87af1ce5ae621b159ce55a009bfc761accd9896082378e93f00c1c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/engineering_processor.js",
+      "sha256": "7e6da909a6d0067980d909bb81bd62b8fb39ce1353f4622d7d8f525e189609d9"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/engineering_processor_press.js",
+      "sha256": "e0c31b2c481896818f052ef23c10fa9f6e84ba4255f3b4246c0e29458152d263"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/engineering_processor_print.js",
+      "sha256": "da410e6616614eeb3514c5cd62212d55a956ba5ca61c9c4666a8c8051917a181"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/logic_processor.js",
+      "sha256": "fd624f18552920d7f5f5cfbb453db626248e9fe98b1ab9826a8a1670fd105ac5"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/logic_processor_press.js",
+      "sha256": "1f1d51a9c91538f08f93ea2a07b4a850388d6aa426e57035f6b1aebba6426590"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/logic_processor_print.js",
+      "sha256": "fa95f7090dc1de5765bdee7f3254ccf5f0e5ee53cd2111aeb7c1b245e586adc7"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/refined_inscriber.js",
+      "sha256": "0a30360ebc6bd0ca8428d4bff3e01c535b41eb2f81dc40aa973d148b3af88f01"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/silicon_processor_press.js",
+      "sha256": "95bf401d6c6b98fa9fa9426a5f621f0df35d97e5b12b0f68a30403bab5d0b381"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/refined_inscriber/silicon_processor_print.js",
+      "sha256": "1562e3ca718e2eb0ba7bc6d2faf42f78eacdf61014b0414af485653874de427a"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/rs/controller.js",
+      "sha256": "ed83340a2f9d678ef6b09153d023b3ce9723054ba0a50b28b8aae4ce32e20bf6"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/rs/processors.js",
+      "sha256": "25732484147fe2e00a35815ffda457ff28a7f0b784ccfd0168ed83c023a97200"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/ancient_spores.js",
+      "sha256": "17f22c6ba9712d72e16114c73c333224837b5aea30a73387c5bcd83532fdf75c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/bamboo_seeds.js",
+      "sha256": "29628346813eade1fa2e474eeb92bc9746f982dbfa38dc1cfde76bc6754c02a9"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/beetroot_seeds.js",
+      "sha256": "6f6872b11a91767de008219340760d7c639e924acdc5231c1c889bb8f1d1fee1"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/blaze_powder.js",
+      "sha256": "80e72aaad24702db40ffa4f61f160af94f62a3550a2b7a31eb61600cfeb2970c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/bonemeal_silica_dust.js",
+      "sha256": "d974ccf458345afc79acee7c054ebb0ead5bf3cbab80c391aca5db43bf5ebe45"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/cactus_seeds.js",
+      "sha256": "da3cf6f4b93a9a8f50c36cf1cd603446980450089b422209d933afb12be077fb"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/carrot_seeds.js",
+      "sha256": "bed616ae92548754fda5a74b4a3970c68f7d7bc5e62b6c130eef69afd38e9e8f"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/certus_seeds.js",
+      "sha256": "4536b622490e303fa4dd500747ac61a768043174a86c9742059b0c3a466d77fe"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/diamond.js",
+      "sha256": "89561047fca954d3f205854bf2419248eb2461c62a6b05f99ad14629410865db"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/emerald.js",
+      "sha256": "3a27feebd9b85be264f5bed9c65a0ed01b1a68e8f9c95f449271b293f1702537"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/fern_seeds.js",
+      "sha256": "6590c4b56073eefd73608c27a3f31ee039ac8c65a22de689c6b2203d1e70d649"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/fluix_seeds.js",
+      "sha256": "24783a851ba9d370d679111557fd2934ea2c97254f1a3a212ed19afcc4ef83e3"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/glowstone.js",
+      "sha256": "9add1c151353a36a9b7cad9fd50f7637460ca03f871a04a55de1e2f6ea01b2be"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/grass_seeds.js",
+      "sha256": "51210abd8edf5ab605c9741f35fb5010d9b6fa05570bc5bfea3a284552c76b6d"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/ie_hemp_seeds.js",
+      "sha256": "e99be57b256e56c0105f650406113e73386a4483d74ef0b463e4618133a27763"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/lapis.js",
+      "sha256": "b1da3d41bfea5c6479303385ca6018feb94b824605587a9f744d74c8970b3c21"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/large_fern_seeds.js",
+      "sha256": "69296d2788d6b90b9a29c02f40dd32e194763c79534820f1aa8c003c6a80681c"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/melon_seeds.js",
+      "sha256": "539453c49d122e9cbe02429ed9de2d4d0e05494cf582f70a33de7ce082265c37"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/nether_quartz.js",
+      "sha256": "4f952ea2d1b23a8db4e561cce4cddd2965822067d645a72ae172bf0f1dd52c12"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/nether_quartz_seeds.js",
+      "sha256": "3501119eb63c50c123cc0130180e3356bc7c6b9b6c1d600f9924e8413b273ffa"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/nether_wart.js",
+      "sha256": "9734d7426012f375cfaf260f03430b87282583492dda17edd7a11d3afd8949fb"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_aluminum.js",
+      "sha256": "02b7cea866a6bb870438f6c66905bb974375ac4178696a7df8c3dd38f3e53409"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_copper.js",
+      "sha256": "8653d4785532489c0d44b018e891c2ca0d97db411cf448a23846f51b591de5f2"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_gold.js",
+      "sha256": "9c33cd24cd1b1e4e5e253181f9f710a91d4f85b484609b9dbbbda3fb638bd648"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_gold_netherrack.js",
+      "sha256": "823cc7e62746f39525b5b961f20f2be6af1cc671221b5ba6e7467b2d0826128b"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_iron.js",
+      "sha256": "89e7ec40b6c2aa859de9a7b6dd0909c0fce6e551d97dfe25b52504e1becac4a1"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_lead.js",
+      "sha256": "d7620caa5318ca1417579126d24a5ddf617cf7e3496ee3d89423b755a82e93a5"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_nickel.js",
+      "sha256": "39f2b22703f2214470774d8c1ec0bb08b311028266c35ddedab4ac893411542a"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_osmium.js",
+      "sha256": "b99c6c764aad42250832c419596deb0555f7fd8ab0f81a1b3b3ac2c23e888291"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_platinum.js",
+      "sha256": "ae6e1d1a481a723e302e57792963a85de0c51d3168892792a28d1916808fa7ab"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_silver.js",
+      "sha256": "ebdcac88fa5e7b02eae061ae4397c364844d43584dd5f384913c97b50443f328"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_tin.js",
+      "sha256": "66e7da5cf8de6b0a7adf57869bf628aed826b786f1cbd3056804acda0368d4be"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_uranium.js",
+      "sha256": "bbf6a9590285435a677c8794a8294fb2db6ba52c06e15012885df66378a4db81"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/piece_zinc.js",
+      "sha256": "0ebdc02c6c96d673058ecf6c0d2b5d80a161280b0c042777e159d13cc74d6c68"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/potato_seeds.js",
+      "sha256": "f9f9e20edebce240809f6d1d0f19d2db102d95e5dfc2e06f2fb79d9248ed9290"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/pumpkin_seeds.js",
+      "sha256": "4e8c6c1ff2b0ba8d943ae02e35a4e44e717287d6bbd06185933e20a67af9865e"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/salt.js",
+      "sha256": "86b3318a0dce82e5efe572711e75e78bde596d3c3b1f8ff3c2c437ae422e69a0"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/silkworms.js",
+      "sha256": "ed7a74f3d303749079520201d8083135493c52fe109620c82305a6ed1b192bc5"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/stone_pebble.js",
+      "sha256": "197edda40f7a81d8f1b5391c18e5b89db7a72aa85e857e8819cc64d1f64616c7"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/sugarcane_seeds.js",
+      "sha256": "b3fb1fa51e0bdc46d93d67759115eb18a0f7049009f0dadff17fb773a736e192"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/sweetberry_seeds.js",
+      "sha256": "1386c3abd8efc860a3509becdb2edbb219c51971cea07269077023a96787528b"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/tree_seeds.js",
+      "sha256": "d4019f79239da5b714ac4173bc2337f53563f09a06ac45a1aa68a377547d25d1"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/uraninite_raw.js",
+      "sha256": "b593763ee375193233121e8e967741a70de4e162a7a2a26fee55d61da92de302"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/uraninite_raw_dense.js",
+      "sha256": "958a17bd85ffd41ef0ea405c2c5d5b235e5e4f80c04049df1ce877a977d8b679"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/uraninite_raw_poor.js",
+      "sha256": "d93d5b64d7366b75105fce800c1678952057c66bd88a195b8a0186fd0014af1a"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/sieve/wheat_seeds.js",
+      "sha256": "582075e97dd8267d503e6e51944cfce17de5cce29fbbc9fde3cfffcf0b84e375"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/smoosher.js",
+      "sha256": "bb38475aadf5a8711d704d74a6efd8a2df8402700a828b37f2b15b4484b22daa"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/spawn_eggs.js",
+      "sha256": "a5ff9dda329f1edd422de49990d10c16154f180504cd15589191c2587687fe18"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/thermal.js",
+      "sha256": "acf2dd81841c2536b1596b505230d5fe60484825228e0f5b8e9d28028826aa5f"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/tinkers.js",
+      "sha256": "b44940d90f1f993266aad664ab4f3062f80478e835fb1b31f9f23a3467bfd30f"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/transmuter.js",
+      "sha256": "d2eb071261594c95380d297c4fe502db35988f09a072d194651219b3d425e7a1"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/ultimate_ingot.js",
+      "sha256": "51fe7f13b473655ad197659dd2f67453432d1b9c65aaa455ea48bbca7e6995f9"
+    },
+    {
+      "path": "kubejs/server_scripts/cuboidoutpost/recipes/ultimate_singularity.js",
+      "sha256": "3f49d14b27c2fab3f6d71cfc10cd8e06f22914e69ca152ba868abf27fdf65338"
+    },
+    {
+      "path": "kubejs/server_scripts/logging.js",
+      "sha256": "dfec1eff52d13a0a848868cd724cc87ee67d986671b9dbe851d90be0905993ec"
+    },
+    {
+      "path": "kubejs/server_scripts/script.js",
+      "sha256": "590107a878371f1800acf0ee8a55521d0bf5dda4aee9011bbacf46e790ac1061"
+    },
+    {
+      "path": "kubejs/server_scripts/unify.js",
+      "sha256": "ee77fc8dc39d7c5c4cfdd5ee9af1e3e1cb2fd2f1b4eb5098654f8e09f164af58"
+    },
+    {
+      "path": "kubejs/startup_scripts/cuboidoutpost/blocks.js",
+      "sha256": "51a8edc349544324cbaad04802cc62010201f317633261c9f3175dd5ade6d78a"
+    },
+    {
+      "path": "kubejs/startup_scripts/cuboidoutpost/fluids.js",
+      "sha256": "9b3cb33f6ec965976f64e50a389a6b2dbb46504ed5465db5d8765b961caa9bb0"
+    },
+    {
+      "path": "kubejs/startup_scripts/cuboidoutpost/items.js",
+      "sha256": "cd5197fecbeb629bb850c91a1c6b1b43035713fea2d958dcdc7102f06e648b3c"
+    },
+    {
+      "path": "kubejs/startup_scripts/cuboidoutpost/tags.js",
+      "sha256": "801daaf95a7f15cc95048e3ed7582cdcd17cb3e726ddf25516906a2b93979bdb"
+    },
+    {
+      "path": "kubejs/startup_scripts/script.js",
+      "sha256": "b8d15bd177b9bfaf27c6f3a7c8a77a324a9b9e6d82f6f24276e906d91fd0b920"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/book.json",
+      "sha256": "a8df5f5080e3ce19ee5d575bb0f70e55e10803bfc4399b2ebce8cebc5eb4eec7"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/en_us/categories/admin_commands.json",
+      "sha256": "d4f7742c5de1719833d42950c6d0e0bcad567a9e8b961841ef50c418c5cde547"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/en_us/categories/player_commands.json",
+      "sha256": "24c1677eaf63497f64984b2de34da1476251aa21edb145e82d400a00eae02c61"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/en_us/entries/admins/admin_commands.json",
+      "sha256": "ba40f0b9a65be5bd58220e4afd293b9d37e433f0322ded9d025c43c0950a0a01"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/en_us/entries/players/basic_commands.json",
+      "sha256": "a1d88f6f8dd1b76027e331f8937544cf55dd0123f788b64b7285cc31a4e3d9e8"
+    },
+    {
+      "path": "patchouli_books/cuboidoutpost_server_guide/en_us/entries/players/team_commands.json",
+      "sha256": "9c8e3c44021b219b1ccebb05c948fdea1ad5d4815cdc69d85f4bed48e7c7c8c0"
+    },
+    {
+      "path": "scripts/dimensions.zs",
+      "sha256": "e17952dbc71bfbb5e5f7efb3821b5dbbbafc2286ef690bc837fda13e2033aab1"
+    },
+    {
+      "path": "scripts/starting_items.zs",
+      "sha256": "920614cd0bd3d3e9786d8b84eac8238acb587845507cb9a42578c9b7c0bfb54e"
+    }
+  ],
+  "omitted_generated_or_unused": [
+    "config/fancymenu/locals/de_de.local",
+    "config/fancymenu/locals/en_us.local",
+    "config/fancymenu/locals/pl_pl.local",
+    "config/fancymenu/locals/pt_br.local",
+    "config/fancymenu/locals/zh_cn.local",
+    "config/fancymenu/menu_identifiers.db",
+    "config/konkrete/locals/de_de.local",
+    "config/konkrete/locals/en_us.local",
+    "config/konkrete/locals/pl_pl.local",
+    "config/konkrete/locals/pt_br.local",
+    "config/skyblockbuilder/template.nbt.bak",
+    "kubejs/assets/kubejs/textures/block/example_block.png",
+    "kubejs/assets/kubejs/textures/item/example_item.png"
+  ],
+  "original_dependency_sha256": "77ce43bda76acc923cd0728dd423f08bc4de2fb9dbe2e94742476472c99a5650"
+}

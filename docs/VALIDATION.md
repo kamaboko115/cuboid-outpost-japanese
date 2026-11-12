@@ -22,3 +22,14 @@
 - 個人のPCパス・アカウントメール・認証トークン・ワールド・ログを含まないことを検査。
 
 配布物のハッシュはReleaseに添付した `SHA256SUMS.txt` を参照してください。公開版では一部の追加MOD翻訳を省いているため、ローカル版より英語表示が多くなる場合があります。
+
+## 1.1.0 簡単導入版
+
+- 元の配布manifestと138件のprojectID / fileIDが完全一致。
+- 原版overrides 572ファイルを公式ソースと照合。生成キャッシュ等13件を省き、559件をそのまま収録。サーバーガイドの表紙定義のみビルド時に既存の日本語版を重ねる。
+- 日本語パックの内包、有効化設定、Minecraft設定のデータバージョン2586、ガイド6ファイル、開始拠点のtemplate.nbtを検査。
+- Prism 11.1.1の公式実装で、CurseForge manifestの認識、overrides/options.txtの保持、recommendedRamによる4GB指定を確認。
+- `python build.py` と `python verify_import.py` で、ファイル配置・原版ハッシュ・ZIPのCRC・SHA-256を検査可能。
+- 簡単導入ZIPそのものをPrismへ新規インポートし、全MOD取得からゲーム起動まで行う実機テストは未実施。
+
+仕様確認の出典: [manifestパーサー](https://github.com/PrismLauncher/PrismLauncher/blob/11.1.1/launcher/modplatform/flame/PackManifest.cpp)、[overridesとメモリー設定](https://github.com/PrismLauncher/PrismLauncher/blob/11.1.1/launcher/modplatform/flame/FlameInstanceCreationTask.cpp)、[ZIP形式判定](https://github.com/PrismLauncher/PrismLauncher/blob/11.1.1/launcher/InstanceImportTask.cpp)。

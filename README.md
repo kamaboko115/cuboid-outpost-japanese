@@ -1,5 +1,7 @@
 # Cuboid Outpost 日本語化
 
+**[日本語の配布ページ](https://kamaboko115.github.io/cuboid-outpost-japanese/)** — ダウンロード一覧と導入方法はこちら。
+
 **Cuboid Outpost 1.1.2（通常版 / Minecraft 1.16.5）**向けの非公式日本語化です。クエスト、MODの画面・ツールチップ、Tinkers' Constructの説明書を日本語で読めるようにします。
 
 **[簡単導入版をダウンロード](https://github.com/kamaboko115/cuboid-outpost-japanese/releases/download/v1.1.0/Cuboid-Outpost-1.1.2-Japanese-Easy-Import-v1.1.0.zip)** ・ [配布ファイル一覧](https://github.com/kamaboko115/cuboid-outpost-japanese/releases/latest)

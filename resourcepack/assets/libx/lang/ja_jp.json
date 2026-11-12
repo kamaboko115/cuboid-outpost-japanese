@@ -1,0 +1,10 @@
+{
+  "libx.misc.copy_id": "クリックしてIDをクリップボードにコピー",
+  "libx.misc.copy_modlist": "クリックしてMOD一覧をクリップボードにコピー",
+  "libx.misc.copy_nbt": "クリックしてNBTをクリップボードにコピー",
+  "libx.misc.copy_json": "クリックしてJSONをクリップボードにコピー",
+  "libx.command.entitydata.modified": "%s体のエンティティのデータを変更しました",
+  "libx.command.entitydata.modified_player": "%s体のエンティティのデータを変更しました。（警告：プレイヤーのNBTを変更しました）",
+  "libx.command.entitydata.player_modify_no_permission": "プレイヤーのNBTを変更できるのは、権限レベル4のオペレーターだけです。",
+  "libx.command.reload": "LibXのすべての共通設定を再読み込みしています。"
+}

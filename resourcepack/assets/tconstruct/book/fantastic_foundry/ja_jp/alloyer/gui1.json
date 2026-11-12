@@ -1,0 +1,14 @@
+{
+  "title": "合金炉の画面",
+  "image": {
+    "file": "tconstruct:book/images/alloyergui.png",
+    "width": 166,
+    "height": 78
+  },
+  "text": [
+    {
+      "text": "基本的な合金炉の画面です。タンクに応じて表示は増減します。",
+      "paragraph": true
+    }
+  ]
+}

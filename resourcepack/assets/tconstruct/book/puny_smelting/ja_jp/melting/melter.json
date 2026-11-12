@@ -1,0 +1,11 @@
+{
+  "title": "溶解炉",
+  "image": {
+    "file": "tconstruct:book/images/melter.png"
+  },
+  "text": [
+    {
+      "text": "さまざまな簡単な作業をこなせる、最も基本的な溶解炉です。"
+    }
+  ]
+}

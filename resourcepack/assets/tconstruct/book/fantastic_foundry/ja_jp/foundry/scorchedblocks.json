@@ -1,0 +1,12 @@
+{
+  "title": "焦熱ブロック",
+  "item": {
+    "tag": "tconstruct:scorched_blocks"
+  },
+  "text": [
+    {
+      "text": "鋳造炉の床にも壁にも使えるブロックです。拠点の装飾にも役立ちます。",
+      "paragraph": true
+    }
+  ]
+}

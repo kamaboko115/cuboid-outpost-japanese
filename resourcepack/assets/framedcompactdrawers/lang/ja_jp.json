@@ -1,0 +1,11 @@
+{
+  "block.framedcompactdrawers.framed_drawer_controller": "額縁付き引き出しコントローラー",
+  "block.framedcompactdrawers.framed_slave": "額縁付きコントローラー中継器",
+  "block.framedcompactdrawers.framed_trim": "額縁付き装飾材",
+  "block.framedcompactdrawers.framed_full_one": "額縁付き引き出し",
+  "block.framedcompactdrawers.framed_full_two": "額縁付き引き出し 1x2",
+  "block.framedcompactdrawers.framed_full_four": "額縁付き引き出し 2x2",
+  "block.framedcompactdrawers.framed_half_one": "額縁付きハーフ引き出し",
+  "block.framedcompactdrawers.framed_half_two": "額縁付きハーフ引き出し 1x2",
+  "block.framedcompactdrawers.framed_half_four": "額縁付きハーフ引き出し 2x2"
+}

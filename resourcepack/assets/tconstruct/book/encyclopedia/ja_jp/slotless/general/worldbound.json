@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:worldbound",
+  "text": [
+    {
+      "text": "ネザライトの代わりに、アップグレードスロットを使わず、落とした道具を無敵にします。性能値は上がりません。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "付与は1回のみ",
+    "スロット不要"
+  ]
+}

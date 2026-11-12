@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:bouncy",
+  "text": [
+    {
+      "text": "着地時に跳ね返り、落下ダメージを防ぎます。速度の90%を上向きの速度に変えます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

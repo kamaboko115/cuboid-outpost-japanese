@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:turtle_shell",
+  "text": [
+    {
+      "text": "緑、赤、青の甲羅からは守ってくれない。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "水中でのダメージを軽減し、泳ぐ速度を上げる",
+    "複数レベル。レベルごとに防御力と泳ぐ速度が上がる",
+    "防御スロット1個が必要"
+  ]
+}

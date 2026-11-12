@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:firestarter",
+  "text": [
+    {
+      "text": "使用時に耐久値を1消費して、火を付けられます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

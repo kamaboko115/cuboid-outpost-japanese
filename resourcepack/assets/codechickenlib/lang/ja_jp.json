@@ -1,0 +1,11 @@
+{
+  "ccl.commands.count.fail": "エンティティが見つかりませんでした。",
+  "ccl.commands.count.total": "%s体のエンティティが見つかりました。",
+  "ccl.commands.gc.after": "実行後：",
+  "ccl.commands.gc.before": "実行前：",
+  "ccl.commands.gc.performing": "ガベージコレクションを実行中...",
+  "ccl.commands.killall.fail": "エンティティが見つかりませんでした。",
+  "ccl.commands.killall.fail.player": "このコマンドではプレイヤーを倒せません。",
+  "ccl.commands.killall.success": "%s体のエンティティを倒しました。",
+  "ccl.commands.killall.success.line": "%sを倒しました"
+}

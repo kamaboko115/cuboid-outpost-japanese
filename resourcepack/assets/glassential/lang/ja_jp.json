@@ -1,0 +1,17 @@
+{
+  "block.glassential.glass_dark": "遮光ガラス",
+  "block.glassential.glass_dark_ethereal": "遮光透過ガラス",
+  "block.glassential.glass_dark_ethereal_reverse": "反転遮光透過ガラス",
+  "block.glassential.glass_ethereal": "透過ガラス",
+  "block.glassential.glass_ethereal_reverse": "反転透過ガラス",
+  "block.glassential.glass_ghostly": "幽体ガラス",
+  "block.glassential.glass_light": "発光ガラス",
+  "block.glassential.glass_redstone": "レッドストーンガラス",
+  "tooltip.glassential.dark": "光を遮ります",
+  "tooltip.glassential.ethereal": "プレイヤーが通り抜けられます",
+  "tooltip.glassential.ethereal_reverse": "プレイヤーだけが通り抜けられません",
+  "tooltip.glassential.ghostly": "エンティティが通り抜けられます",
+  "tooltip.glassential.light": "光を放ちます",
+  "tooltip.glassential.redstone": "レッドストーン信号を出力します",
+  "itemGroup.glassential.items": "Glassential"
+}

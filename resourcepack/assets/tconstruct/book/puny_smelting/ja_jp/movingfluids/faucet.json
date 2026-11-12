@@ -1,0 +1,11 @@
+{
+  "title": "蛇口",
+  "image": {
+    "file": "tconstruct:book/images/faucet_pour.png"
+  },
+  "text": [
+    {
+      "text": "台所や風呂場の……いや、流体輸送のあらゆる用途に。"
+    }
+  ]
+}

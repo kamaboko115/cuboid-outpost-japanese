@@ -1,0 +1,18 @@
+{
+  "button.mekanism.modid_filter": "MOD ID",
+  "command.mekanism.testrules": "keepInventoryを有効にし、doMobSpawning、doDaylightCycle、doWeatherCycle、mobGriefingを無効にしました！",
+  "constants.mekanism.forge": "MinecraftForge",
+  "constants.mekanism.ic2": "IndustrialCraft",
+  "constants.mekanism.mod_name": "Mekanism",
+  "energy.mekanism.eu": "電力単位（EU）",
+  "energy.mekanism.eu.plural": "電力単位（EU）",
+  "energy.mekanism.forge": "Forge Energy",
+  "gui.mekanism.false": "偽",
+  "gui.mekanism.issues": "問題点：",
+  "gui.mekanism.rgb": "RGB:",
+  "gui.mekanism.true": "真",
+  "holiday.mekanism.signature": "-aidancbrady",
+  "item.mekanism.meka_tool": "Meka-Tool",
+  "qio.mekanism.sort_mod": "MOD",
+  "temperature.mekanism.ambient.short": "STP"
+}

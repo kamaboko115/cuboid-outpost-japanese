@@ -1,0 +1,12 @@
+{
+  "title": "焼成ブロック",
+  "item": {
+    "tag": "tconstruct:seared_blocks"
+  },
+  "text": [
+    {
+      "text": "乾式精錬炉の床にも壁にも使えるブロックです。拠点の装飾にも役立ちます。",
+      "paragraph": true
+    }
+  ]
+}

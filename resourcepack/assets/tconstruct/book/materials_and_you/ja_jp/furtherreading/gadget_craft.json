@@ -1,0 +1,10 @@
+{
+  "title": "『鋳掛け者の機械類』の作成",
+  "recipe": "tconstruct:common/tinkers_gadgetry",
+  "grid_size": "small",
+  "description": [
+    {
+      "text": "身近な道具へのスライムの活用法。世界で素材を見つける方法をMelvinが紹介します。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:shield_strap",
+  "text": [
+    {
+      "text": "レベルごとにオフハンド用スロットを1個追加します。レギンスを操作すると、オフハンドのアイテムを入れ替えられます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "アビリティスロット1個が必要"
+  ]
+}

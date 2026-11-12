@@ -1,0 +1,14 @@
+{
+  "title": "部品作成台",
+  "image": {
+    "file": "tconstruct:book/images/partbuilder.png",
+    "width": 170,
+    "height": 64
+  },
+  "text": [
+    {
+      "text": "パーツを作るには、空の型紙を型紙スロットに入れ、作りたいパーツを選びます。手で加工できる柔らかい素材を入れたら、完成したパーツを取り出してください。",
+      "paragraph": true
+    }
+  ]
+}

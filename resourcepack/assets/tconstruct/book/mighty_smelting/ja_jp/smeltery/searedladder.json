@@ -1,0 +1,12 @@
+{
+  "title": "焼いた石はしご",
+  "item": {
+    "id": "tconstruct:seared_ladder"
+  },
+  "text": [
+    {
+      "text": "焼いた石はしごを使えば、乾式精錬炉を簡単に上り下りできます。あとで炉を大きくする予定なら便利です！",
+      "paragraph": true
+    }
+  ]
+}

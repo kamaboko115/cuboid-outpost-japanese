@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tconstruct:item_frame",
+  "text": [
+    {
+      "text": "ヘルメットにスロットを追加し、装備中はその内容が画面に表示されます。"
+    },
+    {
+      "text": "ヘルメットを手に持って使用すると、収納画面を開けます。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "レベルごとにアップグレードスロット1個が必要"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "物々交換",
+  "image": {
+    "file": "tconstruct:book/images/bartering.png",
+    "width": 128,
+    "height": 82
+  },
+  "text": [
+    {
+      "text": "えっ、非暴力主義ですか？ そういえば、燃えるような液体入りのランタンを持ったピグリンを見かけました。照明に使っているようです。代金さえ払えば、譲ってくれるかもしれません。",
+      "paragraph": true
+    }
+  ]
+}

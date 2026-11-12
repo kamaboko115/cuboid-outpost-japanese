@@ -1,0 +1,17 @@
+{
+  "commands.gamestage.add.sender": "ステージ%sを%sに解放しました！",
+  "commands.gamestage.add.target": "ステージ%sを解放しました！",
+  "commands.gamestage.remove.sender": "ステージ%sを%sから削除しました！",
+  "commands.gamestage.remove.target": "ステージ%sにアクセスできなくなりました！",
+  "commands.gamestage.check.failure": "%sはステージ%sを持っていません",
+  "commands.gamestage.check.success": "%sはステージ%sを持っています",
+  "commands.gamestage.info.empty": "%sには解放済みステージがありません。",
+  "commands.gamestage.info.stages": "%sは次のステージを持っています。%s",
+  "commands.gamestage.clear.sender": "%d件のステージを%sから削除しました",
+  "commands.gamestage.clear.target": "%d件のステージを失いました！",
+  "commands.gamestage.playeronly": "プレイヤーだけが実行できます！",
+  "commands.gamestage.reloadfakes.info": "擬似プレイヤーのステージを再読み込みしました。",
+  "commands.gamestage.reloadknown.info": "既知のステージを%d件読み込みました。",
+  "commands.gamestage.all.target": "既知のすべてのステージを解放しました！",
+  "commands.gamestage.all.sender": "%sは既知のすべてのステージを解放しました！"
+}

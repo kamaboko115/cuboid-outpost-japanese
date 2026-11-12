@@ -1,0 +1,11 @@
+{
+  "title": "エンティティの溶解",
+  "image": {
+    "file": "tconstruct:book/images/entitymelting.png"
+  },
+  "text": [
+    {
+      "text": "強力な乾式精錬炉は、エンティティの不要な部分を溶かし、本当の中身を取り出せます。"
+    }
+  ]
+}

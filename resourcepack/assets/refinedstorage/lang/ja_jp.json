@@ -1,0 +1,21 @@
+{
+  "gui.refinedstorage.jei.transfer.autocrafting_available": "自動クラフト可能",
+  "gui.refinedstorage.jei.transfer.request_autocrafting": "CTRL＋クリックで自動クラフトを依頼",
+  "misc.refinedstorage.fluidmode": "流体",
+  "sidebutton.refinedstorage.grid.search_box_mode.4": "JEIと双方向同期",
+  "sidebutton.refinedstorage.grid.search_box_mode.5": "JEIと双方向同期（自動選択）",
+  "item.refinedstorage.cover": "カバー",
+  "item.refinedstorage.hollow_cover": "穴あきカバー",
+  "commands.refinedstorage.network.list.pos": "ネットワーク座標 X: %d, Y: %d, Z: %d",
+  "commands.refinedstorage.network.list.tick_times": "平均tick時間：%s ms。平均TPS：%s",
+  "commands.refinedstorage.network.list.autocrafting_tasks": "%s件のタスク",
+  "commands.refinedstorage.network.list.nodes": "%s個のノード",
+  "commands.refinedstorage.network.list.energy_usage": "エネルギー使用量：%s",
+  "commands.refinedstorage.network.get.error.not_found": "ネットワークが見つかりません。",
+  "commands.refinedstorage.network.autocrafting.get.error.not_found": "タスクが見つかりません。",
+  "commands.refinedstorage.network.autocrafting.cancel.single": "%d件のタスクを取り消しました。",
+  "commands.refinedstorage.network.autocrafting.cancel.multiple": "%d件のタスクを取り消しました。",
+  "itemGroup.refinedstorage": "Refined Storage",
+  "gui.refinedstorage.filter.compare_nbt": "NBT",
+  "sidebutton.refinedstorage.grid.sorting.type.3": "InventoryTweaks"
+}

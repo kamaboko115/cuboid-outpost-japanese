@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:ricochet",
+  "text": [
+    {
+      "text": "受けるノックバックが、レベルごとに20%増えます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "各部位、最大2レベル",
+    "全装備部位の効果を合算",
+    "レベルごとにアップグレードスロット1個が必要"
+  ]
+}

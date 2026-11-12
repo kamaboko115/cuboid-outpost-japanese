@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:exchanging",
+  "text": [
+    {
+      "text": "採掘したブロックを、オフハンドに持っているブロックで置き換えます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:tilling",
+  "text": [
+    {
+      "text": "鎌や大鎌のように、土を耕せます。効果範囲は、その道具の通常の採掘範囲です。"
+    },
+    {
+      "text": "道具が元から持つ道作りや樹皮剥ぎより優先して発動します。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

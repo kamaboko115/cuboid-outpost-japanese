@@ -1,0 +1,14 @@
+{
+  "key.moreoverlays.category": "More Overlays Updated",
+  "key.moreoverlays.chunkbounds.desc": "チャンク境界の表示を切り替え",
+  "key.moreoverlays.lightoverlay.desc": "明るさの表示を切り替え",
+  "gui.config.moreoverlays.tile": "More Overlays Updatedの設定",
+  "gui.config.moreoverlays.reset_config": "設定をリセット",
+  "gui.config.moreoverlays.undo": "変更を元に戻す",
+  "gui.config.moreoverlays.save": "保存",
+  "config.moreoverlays.category.lightoverlay": "明るさの表示",
+  "config.moreoverlays.category.chunkbounds": "チャンク境界",
+  "config.moreoverlays.category.itemsearch": "アイテム検索",
+  "config.moreoverlays.category.searchoverlay": "アイテム検索の表示",
+  "config.moreoverlays.category.rendersettings": "描画設定"
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:experienced",
+  "text": [
+    {
+      "text": "Mobを倒したりブロックを壊したりして得られる経験値が、レベルごとに50%増えます。"
+    },
+    {
+      "text": "チェストプレートでは、素手で倒したMobの経験値だけが増えます。レギンスでは、すべての道具に効果があります。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大5レベル",
+    "レベルごとにアップグレードスロット1個が必要"
+  ]
+}

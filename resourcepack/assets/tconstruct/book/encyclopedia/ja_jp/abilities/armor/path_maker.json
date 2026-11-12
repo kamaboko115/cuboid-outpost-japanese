@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:path_maker",
+  "text": [
+    {
+      "text": "歩いた草地を平らにし、土の道を残します。「広い」改造で効果範囲が広がります。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

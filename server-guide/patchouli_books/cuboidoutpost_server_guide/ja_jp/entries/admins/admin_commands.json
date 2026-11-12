@@ -1,0 +1,35 @@
+{
+  "name": "管理者用コマンド",
+  "icon": "minecraft:writable_book",
+  "category": "patchouli:admin_commands",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "管理者（権限レベル2以上）は、追加のコマンドを使えます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チーム名を変更：$()$(br)$(1)/skyblock team <new name> <old name>$()$(br2)自分のチームなら<old name>は省略できます。指定した場合は、その名前のチームを変更します。<new name>には新しい名前を入れます。$(br2)$(l)チームを作成：$()$(br)$(1)/skyblock manage teams create <name>$()$(br2)<name>に指定した名前でチームを作ります。名前を省略すると、ランダムに生成されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チームを作成して参加：$()$(br)$(1)/skyblock manage teams createAndJoin <name>$()$(br2)指定した名前でチームを作り、自分も自動で参加します。名前を省略すると、ランダムに生成されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チームを削除：$()$(br)$(1)/skyblock manage teams delete <name>$()$(br2)指定した名前のチームを削除します。$(br2)$(c)警告！ この操作は取り消せません。$()$(br2)前哨基地は残りますが、その島に新しいチームを再び結び付けることはできません。所属プレイヤーは全アイテムを落とした後、スポーン地点へ転送されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チームを整理：$()$(br)$(1)/skyblock manage teams clear <name>$()$(br2)名前を指定しなければ、「チームを削除」と同様に、無人のチームをすべて削除します。<name>を指定した場合、そのチームの全プレイヤーがアイテムを落とし、チームから外れ、スポーン地点へ転送されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)プレイヤーをチームに追加：$()$(br)$(1)/skyblock manage addPlayer <player> <team name>$()$(br2)<player>のプレイヤーを、<team name>の既存チームに追加します。プレイヤーは、そのチームの前哨基地へ転送されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)プレイヤーをチームから追放：$()$(br)$(1)/skyblock manage kickPlayer <player>$()$(br2)<player>を現在のチームから外します。プレイヤーはアイテムを落とし、チームから外れ、スポーン地点の前哨基地へ転送されます。"
+    }
+  ]
+}

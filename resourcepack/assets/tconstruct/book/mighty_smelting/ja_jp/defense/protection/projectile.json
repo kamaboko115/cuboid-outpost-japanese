@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:projectile_protection",
+  "text": [
+    {
+      "text": "膝に矢を受けて冒険を諦め、衛兵になる運命からは守ってくれない。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "飛び道具によるダメージを軽減する",
+    "素材を少しずつ追加してレベルを上げられる",
+    "防御スロット1個が必要"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "焦げた石のはしご",
+  "item": {
+    "id": "tconstruct:scorched_ladder"
+  },
+  "text": [
+    {
+      "text": "焦げた石のはしごを使えば、構造を壊さずに鋳造炉を上り下りできます。あとで炉を大きくする予定なら便利です！",
+      "paragraph": true
+    }
+  ]
+}

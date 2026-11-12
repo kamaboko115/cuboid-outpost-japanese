@@ -1,0 +1,11 @@
+{
+  "title": "精錬制御ブロック",
+  "image": {
+    "file": "tconstruct:book/images/scontroller.png"
+  },
+  "text": [
+    {
+      "text": "溶解炉からヒーターに、インゴット4個分の銅を注ぐと、精錬制御ブロックができます。"
+    }
+  ]
+}

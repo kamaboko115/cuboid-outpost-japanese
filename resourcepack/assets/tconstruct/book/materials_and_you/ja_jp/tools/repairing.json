@@ -1,0 +1,14 @@
+{
+  "title": "修理",
+  "image": {
+    "file": "tconstruct:book/images/repair.png",
+    "width": 87,
+    "height": 56
+  },
+  "text": [
+    {
+      "text": "道具を壊したくなければ、修理は大切です。鋳掛け者台か鋳掛け者金床に、道具と、ヘッドまたはプレートの素材を入れると修理できます。修理キットなら、作業台でも使えます！",
+      "paragraph": true
+    }
+  ]
+}

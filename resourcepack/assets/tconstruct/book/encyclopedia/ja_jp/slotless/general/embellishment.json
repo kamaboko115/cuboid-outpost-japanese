@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:embellishment",
+  "text": [
+    {
+      "text": "プレートアーマーやスライムスーツの外見を変えられます。"
+    },
+    {
+      "text": "プレートアーマーの装飾には金属のインゴットを、スライムスーツには凝固スライムブロックを使います。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "繰り返し使用可能",
+    "スロット不要"
+  ]
+}

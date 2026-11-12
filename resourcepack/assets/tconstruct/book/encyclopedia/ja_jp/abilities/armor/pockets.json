@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:pockets",
+  "text": [
+    {
+      "text": "収納スロットを9個追加します。スニークしながらレギンス操作キーを押すか、ズボンを手に持って操作すると開けます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "アビリティスロット1個が必要"
+  ]
+}

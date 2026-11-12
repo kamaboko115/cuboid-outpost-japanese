@@ -1,0 +1,21 @@
+{
+  "configured.config.client.force_configured_menu": "Configuredのメニューを強制的に使用",
+  "configured.gui.reset_all": "すべてリセット",
+  "configured.gui.modify": "変更",
+  "configured.gui.restore": "復元",
+  "configured.gui.select": "選択",
+  "configured.gui.change": "変更",
+  "configured.gui.save": "保存",
+  "configured.gui.select_world": "ワールドを選択",
+  "configured.gui.no_permission": "この操作を行う権限がありません",
+  "configured.gui.not_installed": "サーバーにConfiguredが導入されていません",
+  "configured.gui.edit_world_config": "%sの設定を編集するワールドを選択",
+  "configured.gui.server_config_info": "サーバー設定はワールドごとに異なります。設定の変更は、選択したワールドにだけ適用されます。",
+  "configured.gui.restore_message": "すべての値をリセットしますか？ MODパックでは、作者が設定を変更している場合があり、初期値に戻すとパックが意図した動作をしなくなります。§6この操作は取り消せません！",
+  "configured.gui.unsaved_changes": "未保存の変更があります。編集を終了しますか？",
+  "configured.gui.title.client_configuration": "クライアント設定",
+  "configured.gui.title.common_configuration": "共通設定",
+  "configured.gui.title.server_configuration": "サーバー設定",
+  "key.configured.open_mod_list": "MOD一覧を開く",
+  "key.categories.configured": "Configured"
+}

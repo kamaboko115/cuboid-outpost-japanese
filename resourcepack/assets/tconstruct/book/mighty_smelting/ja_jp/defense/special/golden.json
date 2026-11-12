@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:golden",
+  "text": [
+    {
+      "text": "ピグリンはその着こなしが大好き。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "ピグリンが攻撃してこなくなる",
+    "1レベルのみ",
+    "防御スロット1個が必要"
+  ]
+}

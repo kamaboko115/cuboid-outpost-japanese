@@ -1,0 +1,14 @@
+{
+  "title": "鋳掛け者台",
+  "image": {
+    "file": "tconstruct:book/images/tinkerstation.png",
+    "width": 135,
+    "height": 72
+  },
+  "text": [
+    {
+      "text": "これをここに、あれをあそこに……おっと逆さまだ。まだまだ調整が必要だな。",
+      "paragraph": true
+    }
+  ]
+}

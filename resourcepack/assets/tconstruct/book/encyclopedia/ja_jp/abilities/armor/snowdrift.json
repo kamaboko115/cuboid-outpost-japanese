@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:snowdrift",
+  "text": [
+    {
+      "text": "涼しいバイオームでは、スノウゴーレムのように雪の足跡を残します。「広い」改造で幅を広げられます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "interactio.jei.return_chance": "返却率：%s",
+  "interactio.jei.consume_chance": "消費率：%s",
+  "interactio.jei.weighted_output_empty": "何もなし！",
+  "interactio.jei.weighted_output_chance": "出力確率：%s",
+  "interactio.jei.weighted_output_roll_count": "（%s回抽選）",
+  "interactio.jei.weighted_output_roll_unique": "%s種類",
+  "interactio.jei.item_fluid_transform": "流体からアイテムへのレシピ",
+  "interactio.jei.fluid_fluid_transform": "流体変換レシピ",
+  "interactio.jei.item_explode": "アイテムの爆破",
+  "interactio.jei.block_explode": "ブロックの爆破",
+  "interactio.jei.item_lightning": "アイテムへの落雷",
+  "interactio.jei.item_anvil_smashing": "金床でアイテムを粉砕",
+  "interactio.jei.block_anvil_smashing": "金床のブロックへの衝突"
+}

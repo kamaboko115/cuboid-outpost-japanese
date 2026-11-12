@@ -1,0 +1,19 @@
+{
+  "_": "Createの翻訳にご協力いただき、ありがとうございます！",
+  "advancement.create.speed_controller": "技師たちもお手上げ！",
+  "itemGroup.create.base": "Create",
+  "itemGroup.create.palettes": "Createの建材",
+  "create.generic.unit.rpm": "RPM",
+  "create.generic.unit.millibuckets": "%1$smB",
+  "create.schematicAndQuill.fallbackName": "自分の設計図",
+  "create.tooltip.keyShift": "Shift",
+  "create.tooltip.keyCtrl": "Ctrl",
+  "create.command.killTPSCommand": "killtps",
+  "create.command.killTPSCommand.status.usage.1": "[Create]: /killtps start <tickTime> を使うと、サーバーのtickを意図的に遅くできます",
+  "create.command.killTPSCommand.argument.tickTime": "tickTime",
+  "create.ponder.shared.rpm16": "16 RPM",
+  "create.ponder.shared.rpm8": "8 RPM",
+  "create.ponder.shared.ctrl_and": "Ctrl +",
+  "create.ponder.shared.rpm32": "32 RPM",
+  "create.ponder.chain_gearshift.text_6": "12 RPM"
+}

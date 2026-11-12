@@ -1,0 +1,13 @@
+{
+  "title": "金製の鋳型",
+  "image": {
+    "file": "tconstruct:book/images/gold_pick.png",
+    "width": 170,
+    "height": 90
+  },
+  "text": [
+    {
+      "text": "金製の鋳型は繰り返し使えます。鋳造台に置いた道具パーツに、インゴット1個分の溶融金を注ぐだけで作れます。元の道具パーツは消費されます。"
+    }
+  ]
+}

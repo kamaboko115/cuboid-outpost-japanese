@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:zoom",
+  "text": [
+    {
+      "text": "スニークしながらヘルメット操作キーを押すと、視界をズームできます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

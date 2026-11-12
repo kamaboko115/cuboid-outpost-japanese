@@ -1,0 +1,13 @@
+{
+  "title": "特別な額縁",
+  "image": {
+    "file": "tconstruct:book/images/fancy_frames.png",
+    "width": 140,
+    "height": 82
+  },
+  "text": [
+    {
+      "text": "珍しい金属を使って、特殊な性質を持つ額縁を作ることに成功しました。"
+    }
+  ]
+}

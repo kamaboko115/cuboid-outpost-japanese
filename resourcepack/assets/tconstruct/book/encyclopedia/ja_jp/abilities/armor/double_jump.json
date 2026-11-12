@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:double_jump",
+  "text": [
+    {
+      "text": "空中でもう一度ジャンプできます。レベルを上げると回数が増え、三段ジャンプや、場合によっては四段ジャンプもできます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "アビリティスロット1個が必要"
+  ]
+}

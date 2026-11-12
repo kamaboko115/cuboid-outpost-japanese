@@ -1,0 +1,10 @@
+{
+  "title": "『素晴らしい鍛冶場』の作成",
+  "recipe": "tconstruct:common/fantastic_foundry",
+  "grid_size": "small",
+  "description": [
+    {
+      "text": "溶融金属を扱う、今いちばん熱い新技術。乾式精錬炉を飛ばして、鋳造炉から始めよう！"
+    }
+  ]
+}

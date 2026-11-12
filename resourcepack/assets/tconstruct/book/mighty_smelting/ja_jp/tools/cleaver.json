@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:cleaver",
+  "text": [
+    {
+      "text": "大剣は、高ダメージで振りが遅い武器です。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "首をはねろ！",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "強力な武器",
+    "遅い振り",
+    "切断IIが初めから付いている"
+  ]
+}

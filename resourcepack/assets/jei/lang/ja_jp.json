@@ -1,0 +1,23 @@
+{
+  "jei.tooltip.error.recipe.transfer.disabled": "サーバー設定でJEIのレシピ転送が無効になっています",
+  "jei.chat.error.no.cheat.permission.disabled": "このサーバーでは、すべてのプレイヤーのJEIチートモードが無効です。",
+  "jei.chat.error.no.cheat.permission.enabled": "このサーバーでは、次のプレイヤーがJEIチートモードを使用できます：",
+  "jei.chat.error.no.cheat.permission.creative": "クリエイティブモードのプレイヤー",
+  "jei.chat.error.no.cheat.permission.op": "オペレーター権限（/op）を持つプレイヤー",
+  "jei.chat.error.no.cheat.permission.give": "/giveを使用できるプレイヤー",
+  "key.jei.previousCategory": "前のレシピカテゴリを表示",
+  "key.jei.nextCategory": "次のレシピカテゴリを表示",
+  "gui.jei.category.smelting.time.seconds": "%s秒",
+  "description.jei.debug.formatting.1": "%sの書式置換をテスト中。",
+  "description.jei.debug.formatting.2": "%s %sの書式置換をテスト中。",
+  "description.jei.debug.formatting.3": "%sの入れ子",
+  "_comment": "デバッグ用（デバッグモード専用、翻訳不要）",
+  "config.jei.search.tagSearchMode": "$タグ",
+  "key.jei.ctrl": "CTRL",
+  "key.jei.ctrl.mac": "CMD",
+  "gui.jei.category.smelting.experience": "%s XP",
+  "jei.message.configured": "ゲーム内で設定するには「Configured」MODを導入してください",
+  "description.jei.wooden.door.1": "木のドアは、建物内にモンスターが入るのを防ぎます。\\\\nテスト用の文章です。",
+  "description.jei.wooden.door.2": "ドアをクリックすると、開閉状態が切り替わります。",
+  "description.jei.wooden.door.3": "木のドアはレッドストーン回路でも開閉できます。"
+}

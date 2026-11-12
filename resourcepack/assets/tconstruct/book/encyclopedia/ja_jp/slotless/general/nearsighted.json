@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:nearsighted",
+  "text": [
+    {
+      "text": "この防具の装備中、またはこの道具を持っている間、レベルごとに視野角が5%広がります。"
+    },
+    {
+      "text": "重い道具による視野角の変化を打ち消すのに最適ですが、ほかにも使い道があるかもしれません。",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "繰り返し使用可能",
+    "スロット不要"
+  ]
+}

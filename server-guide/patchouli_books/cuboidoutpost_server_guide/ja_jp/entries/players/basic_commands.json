@@ -1,0 +1,19 @@
+{
+  "name": "基本コマンド",
+  "icon": "minecraft:writable_book",
+  "category": "patchouli:player_commands",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "覚えておくとよい基本コマンドを紹介します。管理者によるサーバー設定によっては、一部を使えない場合があります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)自分の前哨基地を作成：$()$(br)$(1)/skyblock create <name> <players>$()$(br2)<name>の名前で新しいチームを作り、<players>に指定したプレイヤーを所属させます。<players>を省略すると自分だけが参加し、<name>を省略すると名前がランダムに生成されます。このコマンドを使えない場合は、管理者にチームを作成してもらってください。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)スポーン地点へ移動：$()$(br)$(1)/skyblock spawn$()$(br2)$(l)自分の前哨基地へ移動：$()$(br)$(1)/skyblock home$()$(br2)$(l)別の前哨基地を訪問：$()$(1)/skyblock visit <team>$()$(br2)訪問先の<team>が、前哨基地への訪問を許可している必要があります。1人だけのチームでも同様です。"
+    }
+  ]
+}

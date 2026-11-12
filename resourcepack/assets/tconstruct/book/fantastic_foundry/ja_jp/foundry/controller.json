@@ -1,0 +1,11 @@
+{
+  "title": "鋳造制御ブロック",
+  "image": {
+    "file": "tconstruct:book/images/fcontroller.png"
+  },
+  "text": [
+    {
+      "text": "合金炉から焦げたレンガへ黒曜石1ブロック分を注ぐと、この不思議な鋳造制御ブロックを作れます。"
+    }
+  ]
+}

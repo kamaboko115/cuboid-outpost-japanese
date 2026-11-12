@@ -1,0 +1,14 @@
+{
+  "title": "運搬",
+  "image": {
+    "file": "tconstruct:book/images/carry_blaze.png",
+    "width": 128,
+    "height": 73
+  },
+  "text": [
+    {
+      "text": "「Nemea、ブレイズをどうやって乾式精錬炉に入れるの？」。あの理屈屋のMelvinなら、「火炎耐性を飲んでから、おんぶバックパックかイコルスリングを使えばいい」と言うでしょう。丸焦げになりたいなら、うってつけですね。",
+      "paragraph": true
+    }
+  ]
+}

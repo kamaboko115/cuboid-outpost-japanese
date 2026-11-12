@@ -1,0 +1,35 @@
+{
+  "modifier_id": "tconstruct:bucketing",
+  "text": [
+    {
+      "text": "§oこれはバケツだ。§r"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§lなんてこった。§r",
+      "pargraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§oまだ続きがある。§r",
+      "pargraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "§lいやだー。§r",
+      "pargraph": true
+    }
+  ],
+  "effects": [
+    "道具がバケツになる",
+    "タンクのアップグレードで容量を増やせる",
+    "1レベルのみ",
+    "アビリティスロット1個が必要"
+  ]
+}

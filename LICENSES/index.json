@@ -1,0 +1,705 @@
+{
+  "appliedenergistics2": {
+    "license": "CC0-1.0",
+    "source_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+    "license_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/8.4.x-1.16.x/README.md#license",
+    "authors": "AlgorithmX2, TeamAppliedEnergistics and translation contributors",
+    "license_files": [
+      "LICENSES/appliedenergistics2-ae2-readme"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "betterdungeons": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons",
+    "license_url": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons/blob/forge/1.16/LICENSE",
+    "authors": "YUNGNICKYOUNG, Acarii",
+    "license_files": [
+      "LICENSES/betterdungeons-betterdungeons-upstream-LICENSE",
+      "LICENSES/betterdungeons-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "betterstrongholds": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/yungnickyoung/YUNGs-Better-Strongholds",
+    "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "authors": "YUNGNICKYOUNG, Acarii",
+    "license_files": [
+      "LICENSES/betterstrongholds-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "bookshelf": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Darkhax-Minecraft/Bookshelf",
+    "license_url": "https://github.com/Darkhax-Minecraft/Bookshelf/blob/1.16.5/License.md",
+    "authors": "Darkhax",
+    "license_files": [
+      "LICENSES/bookshelf-bookshelf-upstream-License.md",
+      "LICENSES/bookshelf-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "botanypots": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Darkhax-Minecraft/BotanyPots",
+    "license_url": "https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.16.5/LICENSE",
+    "authors": "Darkhax",
+    "license_files": [
+      "LICENSES/botanypots-botanypots-upstream-LICENSE",
+      "LICENSES/botanypots-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cfm": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/MrCrayfish/MrCrayfishFurnitureMod",
+    "license_url": "https://github.com/MrCrayfish/MrCrayfishFurnitureMod/blob/1.16.X/LICENSE",
+    "authors": "MrCrayfish",
+    "license_files": [
+      "LICENSES/cfm-cfm-upstream-LICENSE",
+      "LICENSES/cfm-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cloth-config2": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/architectury/ClothConfig",
+    "license_url": "https://github.com/architectury/ClothConfig",
+    "authors": "shedaniel",
+    "license_files": [
+      "LICENSES/cloth-config2-cloth-config2-bundled-0-LICENSE.md",
+      "LICENSES/cloth-config2-LGPL-3.0.txt",
+      "LICENSES/cloth-config2-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "codechickenlib": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/TheCBProject/CodeChickenLib",
+    "license_url": "https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE",
+    "authors": "ChickenBones, covers1624",
+    "license_files": [
+      "LICENSES/codechickenlib-codechickenlib-bundled-0-LICENSE",
+      "LICENSES/codechickenlib-codechickenlib-upstream-LICENSE",
+      "LICENSES/codechickenlib-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "configured": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/MrCrayfish/Configured",
+    "license_url": "https://github.com/MrCrayfish/Configured/blob/1.15.X/MOD-LICENSE.txt",
+    "authors": "MrCrayfish",
+    "license_files": [
+      "LICENSES/configured-configured-license",
+      "LICENSES/configured-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "constructionwand": {
+    "license": "MIT",
+    "source_url": "https://github.com/Theta-Dev/ConstructionWand",
+    "license_url": "https://github.com/Theta-Dev/ConstructionWand/blob/1.21/LICENSE",
+    "authors": "ThetaDev",
+    "license_files": [
+      "LICENSES/constructionwand-constructionwand-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "controlling": {
+    "license": "MIT",
+    "source_url": "https://github.com/jaredlll08/Controlling",
+    "license_url": "https://github.com/jaredlll08/Controlling/blob/1.16/LICENSE",
+    "authors": "Jaredlll08",
+    "license_files": [
+      "LICENSES/controlling-controlling-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cookingforblockheads": {
+    "license": "MIT",
+    "source_url": "https://github.com/blay09/CookingForBlockheads",
+    "license_url": "https://github.com/TwelveIterations/CookingForBlockheads/blob/1.16.x/LICENSE",
+    "authors": "BlayTheNinth, ZeroTheShinigami",
+    "license_files": [
+      "LICENSES/cookingforblockheads-cookingforblockheads-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "create": {
+    "license": "MIT",
+    "source_url": "https://github.com/Creators-of-Create/Create",
+    "license_url": "https://github.com/Creators-of-Create/Create/blob/mc1.16/dev/LICENSE",
+    "authors": "simibubi",
+    "license_files": [
+      "LICENSES/create-create-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cuboidmod": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/CuboidDroid/cuboidmod/blob/d716fc685b11b6f86b92c91e8f79c6a9eb3d5dd7/src/main/resources/assets/cuboidmod/lang/en_us.json",
+    "license_url": "https://github.com/CuboidDroid/cuboidmod/blob/d716fc685b11b6f86b92c91e8f79c6a9eb3d5dd7/LICENSE",
+    "authors": "CuboidDroid",
+    "license_files": [
+      "LICENSES/cuboidmod-cuboidmod-exact-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cuboidoutpost": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/CuboidDroid/cuboidoutpost/tree/3d2a0e9967818cc00faee8faf7d61b6833782fad/src/overrides",
+    "license_url": "https://github.com/CuboidDroid/cuboidoutpost/blob/3d2a0e9967818cc00faee8faf7d61b6833782fad/LICENSE",
+    "authors": "CuboidDroid",
+    "license_files": [
+      "LICENSES/cuboidoutpost-CuboidDroid-cuboidoutpost-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cuboidquests": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/CuboidDroid/cuboidoutpost/tree/3d2a0e9967818cc00faee8faf7d61b6833782fad/src/overrides",
+    "license_url": "https://github.com/CuboidDroid/cuboidoutpost/blob/3d2a0e9967818cc00faee8faf7d61b6833782fad/LICENSE",
+    "authors": "CuboidDroid",
+    "license_files": [
+      "LICENSES/cuboidquests-CuboidDroid-cuboidoutpost-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cuboidxpiggybank": {
+    "license": "MIT",
+    "source_url": "https://github.com/CuboidDroid/cuboidxpiggybank/blob/4865c5f5d630cd68699177fefd5928dfd73387db/src/main/resources/assets/cuboidxpiggybank/lang/en_us.json",
+    "license_url": "https://github.com/CuboidDroid/cuboidxpiggybank/blob/4865c5f5d630cd68699177fefd5928dfd73387db/LICENSE",
+    "authors": "CuboidDroid",
+    "license_files": [
+      "LICENSES/cuboidxpiggybank-cuboidxpiggybank-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "cucumber": {
+    "license": "MIT",
+    "source_url": "https://github.com/BlakeBr0/Cucumber",
+    "license_url": "https://github.com/BlakeBr0/Cucumber/blob/1.16/LICENSE",
+    "authors": "BlakeBr0",
+    "license_files": [
+      "LICENSES/cucumber-cucumber-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "curios": {
+    "license": "LGPL-3.0-or-later",
+    "source_url": "https://github.com/TheIllusiveC4/Curios",
+    "license_url": "https://github.com/TheIllusiveC4/Curios/blob/26.x/LICENSE",
+    "authors": "C4",
+    "license_files": [
+      "LICENSES/curios-curios-bundled-0-LICENSE",
+      "LICENSES/curios-LGPL-3.0.txt",
+      "LICENSES/curios-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "darkutils": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Darkhax-Minecraft/Dark-Utilities",
+    "license_url": "https://github.com/Darkhax-Minecraft/Dark-Utilities/blob/1.16.5/LICENSE.md",
+    "authors": "Darkhax",
+    "license_files": [
+      "LICENSES/darkutils-darkutils-upstream-LICENSE.md",
+      "LICENSES/darkutils-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "dimstages": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Darkhax-Minecraft/DimensionStages",
+    "license_url": "https://github.com/Darkhax-Minecraft/DimensionStages/blob/1.16.5/LICENSE",
+    "authors": "Darkhax",
+    "license_files": [
+      "LICENSES/dimstages-dimstages-upstream-LICENSE",
+      "LICENSES/dimstages-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "elevatorid": {
+    "license": "MIT",
+    "source_url": "https://github.com/VsnGamer/ElevatorMod",
+    "license_url": "https://github.com/VsnGamer/ElevatorMod/blob/26.3/LICENSE",
+    "authors": "VsnGamer",
+    "license_files": [
+      "LICENSES/elevatorid-elevatorid-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "enderstorage": {
+    "license": "MIT",
+    "source_url": "https://github.com/TheCBProject/EnderStorage",
+    "license_url": "https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt",
+    "authors": "ChickenBones, covers1624",
+    "license_files": [
+      "LICENSES/enderstorage-enderstorage-bundled-0-LICENSE.txt",
+      "LICENSES/enderstorage-enderstorage-upstream-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "excompressum": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/blay09/ExCompressum",
+    "license_url": "https://github.com/TwelveIterations/ExCompressum/blob/1.16.x/LICENSE",
+    "authors": "BlayTheNinth",
+    "license_files": [
+      "LICENSES/excompressum-excompressum-upstream-LICENSE",
+      "LICENSES/excompressum-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "exnihilosequentia": {
+    "license": "CC-BY-NC-SA-4.0",
+    "source_url": "https://github.com/NovaMachina-Mods/ExNihiloSequentia/tree/1.16-final",
+    "license_url": "https://github.com/NovaMachina-Mods/ExNihiloSequentia/blob/1.16-final/LICENSE",
+    "authors": "NovaMachina",
+    "license_files": [
+      "LICENSES/exnihilosequentia-exnihilosequentia-CC-BY-NC-SA-4.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "extendedcrafting": {
+    "license": "MIT",
+    "source_url": "https://github.com/BlakeBr0/ExtendedCrafting",
+    "license_url": "https://github.com/BlakeBr0/ExtendedCrafting/blob/1.16/LICENSE",
+    "authors": "BlakeBr0",
+    "license_files": [
+      "LICENSES/extendedcrafting-extendedcrafting-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "fastbench": {
+    "license": "MIT",
+    "source_url": "https://github.com/Shadows-of-Fire/FastWorkbench",
+    "license_url": "https://github.com/Shadows-of-Fire/FastWorkbench/blob/26.1/LICENSE",
+    "authors": "Shadows_of_Fire",
+    "license_files": [
+      "LICENSES/fastbench-fastbench-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "framedcompactdrawers": {
+    "license": "MIT",
+    "source_url": "https://github.com/eutropius225/FramedCompactDrawers",
+    "license_url": "https://github.com/eutro/FramedCompactDrawers/blob/master/LICENSE",
+    "authors": "Eutros",
+    "license_files": [
+      "LICENSES/framedcompactdrawers-framedcompactdrawers-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "gamestages": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Darkhax-Minecraft/Game-Stages",
+    "license_url": "https://github.com/Darkhax-Minecraft/Game-Stages/blob/1.16.5/LICENSE",
+    "authors": "Darkhax",
+    "license_files": [
+      "LICENSES/gamestages-gamestages-upstream-LICENSE",
+      "LICENSES/gamestages-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "glassential": {
+    "license": "MIT",
+    "source_url": "https://github.com/Lykrast/Glassential",
+    "license_url": "https://github.com/Lykrast/Glassential/blob/1.16.5/LICENSE",
+    "authors": "Lykrast",
+    "license_files": [
+      "LICENSES/glassential-glassential-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "industrialforegoing": {
+    "license": "MIT",
+    "source_url": "https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing",
+    "license_url": "https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing/blob/1.16/LICENSE",
+    "authors": "Buuz135",
+    "license_files": [
+      "LICENSES/industrialforegoing-industrialforegoing-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "interactio": {
+    "license": "MIT",
+    "source_url": "https://github.com/MaxNeedsSnacks/Interactio",
+    "license_url": "https://github.com/MaxNeedsSnacks/Interactio/blob/1.16.4/LICENSE",
+    "authors": "MaxNeedsSnacks",
+    "license_files": [
+      "LICENSES/interactio-interactio-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "invtweaks": {
+    "license": "Apache-2.0",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed",
+    "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "authors": "Yuitakaa(Maintainer), StanleyMines(Contributor), Landmaster (Original Author)",
+    "license_files": [
+      "LICENSES/invtweaks-Apache-2.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "ironchest": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/progwml6/ironchest",
+    "license_url": "https://github.com/progwml6/ironchest/blob/1.21.9-neoforge/LICENSE",
+    "authors": "cpw, alexbegt, progwml6",
+    "license_files": [
+      "LICENSES/ironchest-ironchest-upstream-LICENSE",
+      "LICENSES/ironchest-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "ironfurnaces": {
+    "license": "GPL-3.0",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces",
+    "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "authors": "Qelifern (pizzaatime), XenoMustache",
+    "license_files": [
+      "LICENSES/ironfurnaces-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "ironjetpacks": {
+    "license": "MIT",
+    "source_url": "https://github.com/BlakeBr0/IronJetpacks",
+    "license_url": "https://github.com/BlakeBr0/IronJetpacks/blob/1.16/LICENSE",
+    "authors": "BlakeBr0",
+    "license_files": [
+      "LICENSES/ironjetpacks-ironjetpacks-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "itemfilters": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/LatvianModder/Item-Filters",
+    "license_url": "https://github.com/latvian-dev/item-filters/blob/1.18/main/LICENSE.txt",
+    "authors": "LatvianModder",
+    "license_files": [
+      "LICENSES/itemfilters-itemfilters-upstream-LICENSE.txt",
+      "LICENSES/itemfilters-LGPL-3.0.txt",
+      "LICENSES/itemfilters-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "jei": {
+    "license": "MIT",
+    "source_url": "https://github.com/mezz/JustEnoughItems",
+    "license_url": "https://github.com/mezz/JustEnoughItems/blob/1.16/LICENSE.txt",
+    "authors": "mezz",
+    "license_files": [
+      "LICENSES/jei-jei-upstream-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "kubejs": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/CuboidDroid/cuboidoutpost/tree/3d2a0e9967818cc00faee8faf7d61b6833782fad/src/overrides",
+    "license_url": "https://github.com/CuboidDroid/cuboidoutpost/blob/3d2a0e9967818cc00faee8faf7d61b6833782fad/LICENSE",
+    "authors": "CuboidDroid",
+    "license_files": [
+      "LICENSES/kubejs-CuboidDroid-cuboidoutpost-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "libx": {
+    "license": "Apache-2.0",
+    "source_url": "https://github.com/noeppi-noeppi/LibX",
+    "license_url": "https://github.com/ModdingX/LibX/blob/26.1/LICENSE",
+    "authors": "noeppi_noeppi, MelanX",
+    "license_files": [
+      "LICENSES/libx-libx-upstream-LICENSE",
+      "LICENSES/libx-Apache-2.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "lollipop": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/owmii/Lollipop",
+    "license_url": "https://github.com/owmii/Lollipop/blob/1.16/LICENSE",
+    "authors": "owmii",
+    "license_files": [
+      "LICENSES/lollipop-lollipop-upstream-LICENSE",
+      "LICENSES/lollipop-LGPL-3.0.txt",
+      "LICENSES/lollipop-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "lootr": {
+    "license": "MIT",
+    "source_url": "https://github.com/noobanidus/Lootr",
+    "license_url": "https://github.com/LootrMinecraft/Lootr/blob/1.16/LICENSE",
+    "authors": "Noobanidus",
+    "license_files": [
+      "LICENSES/lootr-lootr-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "mantle": {
+    "license": "MIT",
+    "source_url": "https://github.com/SlimeKnights/Mantle",
+    "license_url": "https://github.com/SlimeKnights/Mantle/blob/1.16/README.md",
+    "authors": "Slime Knights",
+    "license_files": [
+      "LICENSES/mantle-mantle-upstream-README.md"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "mcjtylib": {
+    "license": "MIT",
+    "source_url": "https://github.com/McJtyMods/McJtyLib",
+    "license_url": "https://github.com/McJtyMods/McJtyLib/blob/1.16/LICENSE",
+    "authors": "McJty",
+    "license_files": [
+      "LICENSES/mcjtylib-mcjtylib-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "mekanism": {
+    "license": "MIT",
+    "source_url": "https://github.com/mekanism/Mekanism",
+    "license_url": "https://github.com/mekanism/Mekanism/blob/1.16.x/LICENSE",
+    "authors": "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd",
+    "license_files": [
+      "LICENSES/mekanism-mekanism-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "modnametooltip": {
+    "license": "MIT",
+    "source_url": "https://github.com/mezz/ModNameTooltip",
+    "license_url": "https://github.com/mezz/ModNameTooltip/blob/1.16/LICENSE.txt",
+    "authors": "mezz",
+    "license_files": [
+      "LICENSES/modnametooltip-modnametooltip-upstream-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "moreoverlays": {
+    "license": "MIT",
+    "source_url": "https://github.com/r8420/MoreOverlays-1.15",
+    "license_url": "https://github.com/r8420/MoreOverlays-updated/blob/master-26.2-neoforge/LICENSE.md",
+    "authors": "feldim2425, RiDGo8/R8420",
+    "license_files": [
+      "LICENSES/moreoverlays-moreoverlays-upstream-LICENSE.md"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "naturescompass": {
+    "license": "CC-BY-NC-SA-4.0",
+    "source_url": "https://github.com/MattCzyr/NaturesCompass",
+    "license_url": "https://github.com/MattCzyr/NaturesCompass/blob/main/LICENSE.md",
+    "authors": "ChaosTheDude",
+    "license_files": [
+      "LICENSES/naturescompass-naturescompass-upstream-LICENSE.md"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "patchouli": {
+    "license": "CC-BY-NC-SA-3.0",
+    "source_url": "https://github.com/Vazkii/Patchouli",
+    "license_url": "https://github.com/VazkiiMods/Patchouli/blob/26.1/LICENSE",
+    "authors": "Vazkii",
+    "license_files": [
+      "LICENSES/patchouli-patchouli-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "placebo": {
+    "license": "MIT",
+    "source_url": "https://github.com/Shadows-of-Fire/Placebo",
+    "license_url": "https://github.com/Shadows-of-Fire/Placebo/blob/26.1/LICENSE",
+    "authors": "Shadows_of_Fire",
+    "license_files": [
+      "LICENSES/placebo-placebo-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "polymorph": {
+    "license": "LGPL-3.0-or-later",
+    "source_url": "https://github.com/TheIllusiveC4/Polymorph",
+    "license_url": "https://github.com/illusivesoulworks/polymorph/blob/1.16.x/LICENSE",
+    "authors": "C4",
+    "license_files": [
+      "LICENSES/polymorph-polymorph-bundled-0-LICENSE",
+      "LICENSES/polymorph-LGPL-3.0.txt",
+      "LICENSES/polymorph-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "powah": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/owmii/powah",
+    "license_url": "https://github.com/owmii/Powah/blob/1.16/LICENSE",
+    "authors": "owmii",
+    "license_files": [
+      "LICENSES/powah-powah-upstream-LICENSE",
+      "LICENSES/powah-LGPL-3.0.txt",
+      "LICENSES/powah-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "quark": {
+    "license": "CC-BY-NC-SA-3.0",
+    "source_url": "https://github.com/Vazkii/Quark",
+    "license_url": "https://github.com/VazkiiMods/Quark/blob/master/LICENSE.md",
+    "authors": "Vazkii, Wiiv, WireSegal, MCVinnyq",
+    "license_files": [
+      "LICENSES/quark-quark-upstream-LICENSE.md"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "refinedstorage": {
+    "license": "MIT",
+    "source_url": "https://github.com/refinedmods/refinedstorage",
+    "license_url": "https://github.com/refinedmods/refinedstorage/blob/20a4e4868b78c448e701c51fa42690de6adf2d83/LICENSE.md",
+    "authors": "Refined Mods",
+    "license_files": [
+      "LICENSES/refinedstorage-refinedstorage-historical-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "rftoolsbase": {
+    "license": "MIT",
+    "source_url": "https://github.com/McJtyMods/RFToolsBase",
+    "license_url": "https://github.com/McJtyMods/RFToolsBase/blob/1.16/LICENSE",
+    "authors": "McJty",
+    "license_files": [
+      "LICENSES/rftoolsbase-rftoolsbase-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "rsgauges": {
+    "license": "MIT",
+    "source_url": "https://github.com/stfwi/rsgauges",
+    "license_url": "https://github.com/stfwi/rsgauges/blob/1.16/LICENSE",
+    "authors": "wilechaote",
+    "license_files": [
+      "LICENSES/rsgauges-rsgauges-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "simplylight": {
+    "license": "MIT",
+    "source_url": "https://github.com/Flanks255/simplylight",
+    "license_url": "https://github.com/Flanks255/simplylight/blob/master/LICENSE",
+    "authors": "Flanks255",
+    "license_files": [
+      "LICENSES/simplylight-simplylight-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "skyblockbuilder": {
+    "license": "Apache-2.0",
+    "source_url": "https://github.com/MelanX/SkyblockBuilder",
+    "license_url": "https://github.com/ChaoticTrials/SkyblockBuilder/blob/1.16.x/LICENSE",
+    "authors": "MelanX",
+    "license_files": [
+      "LICENSES/skyblockbuilder-skyblockbuilder-upstream-LICENSE",
+      "LICENSES/skyblockbuilder-Apache-2.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "solcarrot": {
+    "license": "LGPL-2.1",
+    "source_url": "https://github.com/Cazsius/Spice-of-Life-Carrot-Edition",
+    "license_url": "https://github.com/Cazsius/Spice-of-Life-Carrot-Edition/blob/1.21/LICENSE.txt",
+    "authors": "Cazsius, Talonos, juliand665",
+    "license_files": [
+      "LICENSES/solcarrot-solcarrot-upstream-LICENSE.txt",
+      "LICENSES/solcarrot-LGPL-2.1.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "sophisticatedbackpacks": {
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/P3pp3rF1y/SophisticatedBackpacks",
+    "license_url": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/blob/1.16.x/LICENSE",
+    "authors": "P3pp3rF1y, Ridanisaurus",
+    "license_files": [
+      "LICENSES/sophisticatedbackpacks-sophisticatedbackpacks-upstream-LICENSE",
+      "LICENSES/sophisticatedbackpacks-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "storagedrawers": {
+    "license": "MIT",
+    "source_url": "https://github.com/jaquadro/StorageDrawers",
+    "license_url": "https://github.com/jaquadro/StorageDrawers/blob/1.16/LICENSE",
+    "authors": "Texelsaur",
+    "license_files": [
+      "LICENSES/storagedrawers-storagedrawers-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "tconstruct": {
+    "license": "MIT",
+    "source_url": "https://github.com/SlimeKnights/TinkersConstruct/tree/3.3.3.332/src/main/resources/assets/tconstruct",
+    "license_url": "https://github.com/SlimeKnights/TinkersConstruct/blob/3.3.3.332/LICENSE",
+    "authors": "SlimeKnights",
+    "license_files": [
+      "LICENSES/tconstruct-TConstruct-3.3.3.332-LICENSE.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "theoneprobe": {
+    "license": "MIT",
+    "source_url": "https://github.com/McJtyMods/TheOneProbe",
+    "license_url": "https://github.com/McJtyMods/TheOneProbe/blob/1.16/LICENCE",
+    "authors": "McJty",
+    "license_files": [
+      "LICENSES/theoneprobe-theoneprobe-upstream-LICENCE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "titanium": {
+    "license": "LGPL-3.0",
+    "source_url": "https://github.com/InnovativeOnlineIndustries/Titanium",
+    "license_url": "https://github.com/InnovativeOnlineIndustries/Titanium/blob/1.16/LICENSE.md",
+    "authors": "TheCodedOne, Buuz135",
+    "license_files": [
+      "LICENSES/titanium-titanium-bundled-0-LICENSE.txt",
+      "LICENSES/titanium-titanium-bundled-1-LICENSE.html",
+      "LICENSES/titanium-titanium-upstream-LICENSE.md",
+      "LICENSES/titanium-LGPL-3.0.txt",
+      "LICENSES/titanium-GPL-3.0.txt"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "toastcontrol": {
+    "license": "MIT",
+    "source_url": "https://github.com/Shadows-of-Fire/Toast-Control",
+    "license_url": "https://github.com/Shadows-of-Fire/Toast-Control/blob/26.1/LICENSE",
+    "authors": "Shadows_of_Fire",
+    "license_files": [
+      "LICENSES/toastcontrol-toastcontrol-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "waystones": {
+    "license": "MIT",
+    "source_url": "https://github.com/blay09/Waystones",
+    "license_url": "https://github.com/TwelveIterations/Waystones/blob/1.16.x/LICENSE",
+    "authors": "BlayTheNinth",
+    "license_files": [
+      "LICENSES/waystones-waystones-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  },
+  "xnet": {
+    "license": "MIT",
+    "source_url": "https://github.com/McJtyMods/XNet",
+    "license_url": "https://github.com/McJtyMods/XNet/blob/1.16/LICENSE",
+    "authors": "McJty",
+    "license_files": [
+      "LICENSES/xnet-xnet-upstream-LICENSE"
+    ],
+    "changed": "Japanese translation, terminology and display corrections; 2026-11-12"
+  }
+}

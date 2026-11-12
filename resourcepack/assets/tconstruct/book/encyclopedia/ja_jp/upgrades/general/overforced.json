@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:overforced",
+  "text": [
+    {
+      "text": "レベルごとにオーバースライムが+75されます。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "素材を少しずつ追加してレベルを上げられる",
+    "最大5レベル",
+    "レベルごとにアップグレードスロット1個が必要"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "血の島",
+  "image": {
+    "file": "tconstruct:book/images/islands/blood.png",
+    "width": 180,
+    "height": 87
+  },
+  "text": [
+    {
+      "text": "この血のように赤い島は、ときどきネザーの溶岩の海で見つかります。周囲よりもマグマキューブが多く、イコルの源らしい奇妙なキノコも生えています。"
+    }
+  ]
+}

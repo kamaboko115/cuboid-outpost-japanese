@@ -1,0 +1,13 @@
+{
+  "curios.cosmetic": "見た目用",
+  "argument.entity.options.curios.description": "エンティティのCuriosインベントリ",
+  "curios.identifier.bracelet": "腕輪",
+  "curios.modifiers.bracelet": "腕輪として装備したとき：",
+  "curios.modifiers.slots.plus.0": "+%s %sスロット",
+  "curios.modifiers.slots.plus.1": "+%s%% %sスロット",
+  "curios.modifiers.slots.plus.2": "+%s%% %sスロット",
+  "curios.modifiers.slots.take.0": "-%s %sスロット",
+  "curios.modifiers.slots.take.1": "-%s%% %sスロット",
+  "curios.modifiers.slots.take.2": "-%s%% %sスロット",
+  "gui.curios.toggle": "表示を切り替え"
+}

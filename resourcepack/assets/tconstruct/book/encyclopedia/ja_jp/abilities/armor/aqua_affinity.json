@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:aqua_affinity",
+  "text": [
+    {
+      "text": "水中での採掘速度が、通常の20%ではなく、地上と同じ速度になります。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最大1レベル",
+    "アビリティスロット1個が必要"
+  ]
+}

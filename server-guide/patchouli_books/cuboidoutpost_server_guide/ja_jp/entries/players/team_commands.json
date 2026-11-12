@@ -1,0 +1,35 @@
+{
+  "name": "チーム用コマンド",
+  "icon": "minecraft:writable_book",
+  "category": "patchouli:player_commands",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "サーバーでは、チームを組んで協力できます。ここではチーム向けのコマンドを紹介します。FTB Chunksの設定はこれとは独立しているため、チャンクを保護する場合は、そちらでもチームの権限を設定してください。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)既存のチームを一覧表示：$()$(br)$(1)/skyblock list <team>$()$(br2)<team>を省略すると全チームを、指定するとそのチームのプレイヤーを一覧表示します。$(br2)$(l)チーム名を変更：$()$(br)$(1)/skyblock team <new name>$()$(br2)自分のチームを、<new name>に指定した名前へ変更します。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)訪問を許可：$()$(br)$(1)/skyblock team allowVisit <true/false>$()$(br2)<true/false>を省略すると、現在の訪問許可の状態を表示します。trueで許可、falseで禁止にできます。$(br2)$(l)チームにプレイヤーを招待：$()$(br)$(1)/skyblock invite <player>$()$(br2)<player>に、チームへの招待を送ります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)招待を受け入れる：$()$(br)$(1)/skyblock accept <team name>$()$(br2)指定したチームへの招待を受け入れます。すでに別のチームに所属している場合は使えません。$(br2)$(l)招待を断る：$()$(br)$(1)/skyblock decline <team name>$()$(br2)指定したチームへの招待を断ります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チームへの参加を申請：$()$(br)$(1)/skyblock join <team name>$()$(br2)指定したチームへ参加申請を送ります。すでにチームに所属している場合は使えません。$(br2)$(l)参加申請を許可：$()$(br)$(1)/skyblock allowRequest <true/false>$()$(br2)<true/false>を省略すると、現在の参加申請の許可状態を表示します。trueで許可、falseで禁止にできます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)参加申請を承認：$()$(br)$(1)/skyblock team accept <player>$()$(br2)<player>からの申請を承認し、チームに追加します。$(br2)$(l)参加申請を拒否：$()$(br)$(1)/skyblock team deny <player>$()$(br2)<player>からの参加申請を断ります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)チームを脱退：$()$(br)$(1)/skyblock leave$()$(br2)チームから抜けたいときは、このコマンドを使います。$(c)$(l)注意：全アイテムを落とし、スポーン地点へ転送されます。$()"
+    }
+  ]
+}

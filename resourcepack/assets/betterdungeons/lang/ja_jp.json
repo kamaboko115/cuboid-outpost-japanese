@@ -1,0 +1,17 @@
+{
+  "betterdungeons.small_dungeon.banner.zombie": "邪悪な旗",
+  "betterdungeons.small_dungeon.banner.skeleton": "復讐の旗",
+  "betterdungeons.small_dungeon.banner.spider": "呪われた旗",
+  "betterdungeons.advancements.root.title": "YUNG's Better Dungeons",
+  "betterdungeons.advancements.root.description": "冒険が待っている...",
+  "betterdungeons.advancements.all_dungeons.title": "ダンジョン探索の達人",
+  "betterdungeons.advancements.all_dungeons.description": "Better Dungeonsのすべてのダンジョンを探索する！",
+  "betterdungeons.advancements.small_dungeon.title": "見違える改装",
+  "betterdungeons.advancements.small_dungeon.description": "改良されたモンスタールームを見つける",
+  "betterdungeons.advancements.skeleton_dungeon.title": "骨のある相手",
+  "betterdungeons.advancements.skeleton_dungeon.description": "アンデッドの要塞に入る",
+  "betterdungeons.advancements.spider_dungeon.title": "クモの巣に絡まって",
+  "betterdungeons.advancements.spider_dungeon.description": "クモの洞窟を発見する",
+  "betterdungeons.advancements.zombie_dungeon.title": "郷に入っては",
+  "betterdungeons.advancements.zombie_dungeon.description": "地下墓所に足を踏み入れる"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Blazing Blood",
+  "image": {
+    "file": "tconstruct:book/images/manyullyn_alloy.png",
+    "width": 179,
+    "height": 69
+  },
+  "text": [
+    {
+      "text": "よりよい合金を作ろうとして、溶岩の力不足を感じていますか？ 生きたブレイズのエキスを液化して、野望の燃料にしてはいかがでしょう。",
+      "paragraph": true
+    }
+  ]
+}
